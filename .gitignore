@@ -1,2 +1,2 @@
-src/Matrix*
+src/*.json
 notebook/.*
