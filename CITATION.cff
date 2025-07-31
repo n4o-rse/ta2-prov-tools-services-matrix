@@ -11,23 +11,23 @@ authors:
   - given-names: Angela
     family-names: Berthold
     email: a.berthold@smb.spk-berlin.de
-    affiliation: SMB/SPK Berlin
-    orcid: 'https://orcid.org/0009-0007-8926-5388'
+    affiliation: Prussian Cultural Heritage Foundation
+    orcid: "https://orcid.org/0009-0007-8926-5388"
   - given-names: Frank
     family-names: von Hagel
     email: f.v.hagel@smb.spk-berlin.de
-    affiliation: SPK Berlin
-    orcid: 'https://orcid.org/0000-0003-1349-2131'
+    affiliation: Prussian Cultural Heritage Foundation
+    orcid: "https://orcid.org/0000-0003-1349-2131"
   - given-names: Gabriele
     family-names: Zöllner
     email: gabriele.zoellner@hu-berlin.de
-    affiliation: HU Berlin
+    affiliation: Humboldt-Universität zu Berlin
   - given-names: Florian
     family-names: Thiery
     email: florian.thiery@leiza.de
-    affiliation: LEIZA
-    orcid: 'https://orcid.org/0000-0002-3246-3531'
-repository-code: 'https://github.com/n4o-rse/ta2-prov-tools-services-matrix/'
+    affiliation: LEIZA - Leibniz-Zentrum für Archäologie
+    orcid: "https://orcid.org/0000-0002-3246-3531"
+repository-code: "https://github.com/n4o-rse/ta2-prov-tools-services-matrix/"
 abstract: >-
   Aufgabe der Temporary Working Group innerhalb von
   NFDI4Objects war es, Dienste und Werkzeuge für
@@ -37,7 +37,6 @@ abstract: >-
   die Sammlungsarbeit sowie Provenienzforschung erleichtern
   sowie relevante digitale Anwedungen sammeln und zur
   Verfügung stellen.
-
 
   Diese Sammlung wurde sowohl in inhaltliche als auch in
   typologische Kategorien gegliedert. Diese Typen sind:
@@ -59,4 +58,4 @@ keywords:
   - Tools
 license: CC-BY-4.0
 version: v1
-date-released: '2025-06-20'
+date-released: "2025-06-20"
