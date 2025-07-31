@@ -26,3 +26,7 @@ Bei Fragen oder Ergänzungswünschen schreiben Sie bitte eine Mail an: a.berthol
 ## Publikationsdatum
 
 20.06.2025 (Version 1)
+
+## IDs used
+
+from https://github.com/n4o-rse/idgenerator/tree/main/PROV-RES-Matrix
