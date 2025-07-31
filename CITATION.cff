@@ -1,0 +1,62 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ta2-prov-tools-services-matrix
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Angela
+    family-names: Berthold
+    email: a.berthold@smb.spk-berlin.de
+    affiliation: SMB/SPK Berlin
+    orcid: 'https://orcid.org/0009-0007-8926-5388'
+  - given-names: Frank
+    family-names: von Hagel
+    email: f.v.hagel@smb.spk-berlin.de
+    affiliation: SPK Berlin
+    orcid: 'https://orcid.org/0000-0003-1349-2131'
+  - given-names: Gabriele
+    family-names: Zöllner
+    email: gabriele.zoellner@hu-berlin.de
+    affiliation: HU Berlin
+  - given-names: Florian
+    family-names: Thiery
+    email: florian.thiery@leiza.de
+    affiliation: LEIZA
+    orcid: 'https://orcid.org/0000-0002-3246-3531'
+repository-code: 'https://github.com/n4o-rse/ta2-prov-tools-services-matrix/'
+abstract: >-
+  Aufgabe der Temporary Working Group innerhalb von
+  NFDI4Objects war es, Dienste und Werkzeuge für
+  Forschungssammlungen und Provenienzforschung zu
+  identifizieren und in Katalogform online zu publizieren.
+  Die Samlung soll als Werkzeug vor allem den Einstieg in
+  die Sammlungsarbeit sowie Provenienzforschung erleichtern
+  sowie relevante digitale Anwedungen sammeln und zur
+  Verfügung stellen.
+
+
+  Diese Sammlung wurde sowohl in inhaltliche als auch in
+  typologische Kategorien gegliedert. Diese Typen sind:
+  Netzwerke und Services, Empfehlungen, Digitale Anwendungen
+  sowie Recherche und Ressourcen. Die inhaltliche Einteilung
+  erfolgte nach Kontexten, diese sind: Koloniale Konetxte,
+  NS-Zeit, SBZ/DDR, Secret/Sacred Objects und
+  Natukunde/Naturwissenschaft. Alle Kategorien sind über
+  einen Filter suchbar. Die Beschreibung der einzelnen
+  Ressourcen wurde größteneils von den entsprechenden,
+  zitierten Quellen übernommen und teilweise modifiziert.
+  Für die gesammelten und zitierten Inhalte übernehmen die
+  Autor*innen dieser Sammlung keine Gewähr.
+keywords:
+  - NFDI
+  - NFDI4Objects
+  - Provenienzforschung
+  - Services
+  - Tools
+license: CC-BY-4.0
+version: v1
+date-released: '2025-06-20'
