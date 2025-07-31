@@ -1,0 +1,58 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "prov": "http://www.w3.org/ns/prov#"
+  },
+  "@type": "dcat:Catalog",
+  "dct:title": "ta2-prov-tools-services-matrix",
+  "dct:description": "Aufgabe der Temporary Working Group innerhalb von NFDI4Objects war es, Dienste und Werkzeuge für Forschungssammlungen und Provenienzforschung zu identifizieren und in Katalogform online zu publizieren. Die Samlung soll als Werkzeug vor allem den Einstieg in die Sammlungsarbeit sowie Provenienzforschung erleichtern sowie relevante digitale Anwedungen sammeln und zur Verfügung stellen.\nDiese Sammlung wurde sowohl in inhaltliche als auch in typologische Kategorien gegliedert. Diese Typen sind: Netzwerke und Services, Empfehlungen, Digitale Anwendungen sowie Recherche und Ressourcen. Die inhaltliche Einteilung erfolgte nach Kontexten, diese sind: Koloniale Konetxte, NS-Zeit, SBZ/DDR, Secret/Sacred Objects und Natukunde/Naturwissenschaft. Alle Kategorien sind über einen Filter suchbar. Die Beschreibung der einzelnen Ressourcen wurde größteneils von den entsprechenden, zitierten Quellen übernommen und teilweise modifiziert. Für die gesammelten und zitierten Inhalte übernehmen die Autor*innen dieser Sammlung keine Gewähr.",
+  "dct:issued": "2025-06-20",
+  "dct:license": "https://creativecommons.org/licenses/by/4.0/",
+  "dct:creator": [
+    {
+      "@type": "foaf:Person",
+      "foaf:givenName": "Angela",
+      "foaf:familyName": "Berthold",
+      "foaf:mbox": "mailto:a.berthold@smb.spk-berlin.de",
+      "foaf:affiliation": "Prussian Cultural Heritage Foundation",
+      "foaf:orcid": "https://orcid.org/0009-0007-8926-5388"
+    },
+    {
+      "@type": "foaf:Person",
+      "foaf:givenName": "Frank",
+      "foaf:familyName": "von Hagel",
+      "foaf:mbox": "mailto:f.v.hagel@smb.spk-berlin.de",
+      "foaf:affiliation": "Prussian Cultural Heritage Foundation",
+      "foaf:orcid": "https://orcid.org/0000-0003-1349-2131"
+    },
+    {
+      "@type": "foaf:Person",
+      "foaf:givenName": "Gabriele",
+      "foaf:familyName": "Zöllner",
+      "foaf:mbox": "mailto:gabriele.zoellner@hu-berlin.de",
+      "foaf:affiliation": "Humboldt-Universität zu Berlin"
+    },
+    {
+      "@type": "foaf:Person",
+      "foaf:givenName": "Florian",
+      "foaf:familyName": "Thiery",
+      "foaf:mbox": "mailto:florian.thiery@leiza.de",
+      "foaf:affiliation": "LEIZA - Leibniz-Zentrum für Archäologie",
+      "foaf:orcid": "https://orcid.org/0000-0002-3246-3531"
+    }
+  ],
+  "dct:contributor": "Angela Berthold, Jörg Drauschke, Anja Gerber, Georg Gerleigner, Frank von Hagel, Meike Hopp, Olivia Kaiser, Christoph Klose, Sabine Lang, Katharina Martin, Magdalene Schlösser, Florian Thiery, Sarah Wagner, Bernhard Weisser, Petra Winter, Gabriele Zöllner",
+  "dct:publisher": "Angela Berthold, Frank von Hagel, Gabriele Zöllner, Florian Thiery",
+  "dcat:keyword": [
+    "NFDI",
+    "NFDI4Objects",
+    "Provenienzforschung",
+    "Services",
+    "Tools"
+  ],
+  "dcat:landingPage": "https://github.com/n4o-rse/ta2-prov-tools-services-matrix/",
+  "dcat:version": "1.0",
+  "dcat:contactPoint": "Angela Berthold (a.berthold@smb.spk-berlin.de)"
+}
