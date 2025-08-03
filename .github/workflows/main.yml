@@ -19,7 +19,7 @@ jobs:
     uses: sparqlunicorn/sparqlunicornGoesGIS-ontdoc/.github/workflows/udoc.yml@main
     with:
       version: v017
-      rdffilepath: Matrix_v1_test.ttl
+      rdffilepath: dist/Matrix_v1_test.ttl
       docpath: docs
       prefixns: https://w3id.org/n4o-metadata/prov-matrix/
       prefixnsshort: base
