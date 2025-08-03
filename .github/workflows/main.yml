@@ -1,0 +1,36 @@
+name: SPARQL Unicorn RDF HTML Documentation CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    uses: sparqlunicorn/sparqlunicornGoesGIS-ontdoc/.github/workflows/udoc.yml@main
+    with:
+      version: v017
+      rdffilepath: Matrix_v1_test.ttl
+      docpath: docs
+      prefixns: https://w3id.org/n4o-metadata/prov-matrix/
+      prefixnsshort: base
+      indexpages: true
+      createcollections: true
+      createVOWL: true
+      preferredlang: en
+      ghpages: true
+      metadatatable: true
+      createnonNSPages: true
+      logourl: https://raw.githubusercontent.com/n4o-rse/unicorn-ontdoc-template-n4o-metadata/main/icons/n4o_icon.png
+      templatedir: https://github.com/n4o-rse/unicorn-ontdoc-template-n4o-metadata/archive/refs/tags/n4omd-v0.0.1.zip
+      ogcapifeatures: false
+      datasettitle: N4O TA2 PROV Matrix Tools & Services
