@@ -1,0 +1,1495 @@
+@prefix base: <https://w3id.org/n4o-metadata/prov-matrix/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix objectcore: <https://w3id.org/objectcoreont/> .
+@prefix ocmdp: <http://www.w3id.org/objectcore/terminology/> .
+
+base:A97Q6Z a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IVETAX .
+
+base:AD44PD a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:ADER6R a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:AFK28O a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IVETAX .
+
+base:APADYR a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:A01ISV .
+
+base:ATIXOG a dcat:Resource,
+        objectcore:F-R7HUAW,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:Z5V1LB .
+
+base:AUEFLK a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:AXAL69 a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:SZMZE4 .
+
+base:AZIKVC a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A0VF7A .
+
+base:B3351Y a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R .
+
+base:B7OLG6 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:D1ZG69 .
+
+base:BB2DUO a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:D1ZG69 .
+
+base:BBQB01 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:BFFSF7 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IVETAX .
+
+base:BFJE57 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A0VF7A,
+        ocmdp:IP5W9R .
+
+base:BGJYK5 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:BNHR9R a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R .
+
+base:BT1CIR a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:IVETAX .
+
+base:BTOFRG a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:D1ZG69 .
+
+base:BXCKBE a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:IP5W9R .
+
+base:CGHQCS a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:CPPBM5 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:D0SI4T a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R .
+
+base:D2PC9B a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:D6NTL3 a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R .
+
+base:D6TJWB a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:DAOQKE a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:DLCN7T a dcat:Resource,
+        objectcore:F-R7HUAW,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:DLMWN1 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:D1ZG69 .
+
+base:DOF1Y0 a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:DZRME1 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:E0IE75 a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:E5W9BC a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:IVETAX .
+
+base:EA7BQO a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:EG6L98 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IVETAX .
+
+base:EL52VD a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:EVHJ63 a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX .
+
+base:F593UE a dcat:Resource,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:F6XOKY a dcat:Resource,
+        objectcore:F-E5JM9H,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:FBGGIF a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:IVETAX .
+
+base:FBOY2E a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:IVETAX .
+
+base:FC693T a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R .
+
+base:FSUN7X a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:FXUH5B a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:G0YTCB a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:G5R4TQ a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R .
+
+base:GBU3JV a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:GUD81T a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:Z5V1LB .
+
+base:GVN0JQ a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69 .
+
+base:H16E7O a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:H1OJVU a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:H2822O a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:SZMZE4 .
+
+base:HJ602T a dcat:Resource,
+        objectcore:F-E5JM9H,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:HNPN69 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:D1ZG69 .
+
+base:HQPUHX a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:IP5W9R,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:HSZK1U a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:D1ZG69 .
+
+base:HU19AA a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:HZUO1H a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4 .
+
+base:I86PSN a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:IBUA1A a dcat:Resource,
+        objectcore:F-MGQGXG .
+
+base:IBWGR6 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69 .
+
+base:IDP2JN a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:II9Z6B a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:IIA9LB a dcat:Resource,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:IP5W9R .
+
+base:ILBUPS a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:Z5V1LB .
+
+base:ILU941 a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:IP5W9R .
+
+base:IVXK0K a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:IYR4HC a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R .
+
+base:IZMSKQ a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:IVETAX .
+
+base:IZOTK5 a dcat:Resource,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:J603A1 a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:J6C5UK a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:J9KMGB a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:JDSXZC a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:JF2OAR a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:JREAD3 a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:JS950W a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:K077DZ a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:SZMZE4 .
+
+base:K5ES6E a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:IVETAX .
+
+base:K5GAOS a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:K7SN51 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:IVETAX .
+
+base:KFH87J a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:A01ISV .
+
+base:KFHAK9 a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:IVETAX .
+
+base:KGIKGS a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:IP5W9R .
+
+base:KHXINC a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:KK8KZ5 a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:IVETAX .
+
+base:KMIIUX a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69 .
+
+base:KRZZHH a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:IP5W9R .
+
+base:KU5E0O a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:IP5W9R .
+
+base:KU7V30 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:KUO3J7 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:IVETAX .
+
+base:KUUBHA a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:KUV8ZV a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A0VF7A,
+        ocmdp:IP5W9R,
+        ocmdp:SZMZE4 .
+
+base:L1YTDU a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:L2C65C a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:Z5V1LB .
+
+base:L5A6H9 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:LCP1O1 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:D1ZG69 .
+
+base:LEL4KZ a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:LL972U a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:LNYOFV a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:LONMJG a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:LWBAS6 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:M5QXWC a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX .
+
+base:M5VK4G a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:IVETAX .
+
+base:M6K4JV a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R .
+
+base:MGQD3K a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:MII4VK a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:MIISVM a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:MXH83G a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IVETAX .
+
+base:MXLMB9 a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:IVETAX .
+
+base:MZJD4Q a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:N2XG9M a dcat:Resource,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:N5MOJ9 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:N7D6CM a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:IP5W9R .
+
+base:N84WLO a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:SZMZE4 .
+
+base:N8NRYC a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:NB74LH a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:NEH625 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:NERQBV a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:Z5V1LB .
+
+base:NF5V4K a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:NGTKPB a dcat:Resource,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:NQYTW6 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:O03LVZ a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R .
+
+base:O1DLP3 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:O968YK a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:IVETAX .
+
+base:O9PFNI a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:IVETAX .
+
+base:OARVY7 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:OBH3BB a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:D1ZG69 .
+
+base:OKIYL2 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:ONLV6W a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV .
+
+base:P81F6G a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:PA3709 a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:IVETAX .
+
+base:PAL6KH a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:Z5V1LB .
+
+base:PCDLSD a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:PCL7J8 a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV .
+
+base:PFP0QT a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX .
+
+base:PHE6HT a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:PI046O a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:PPIVKC a dcat:Resource,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX .
+
+base:PUBNZL a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:D1ZG69 .
+
+base:Q472ET a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:IVETAX .
+
+base:Q8CDIR a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:QA0VXX a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R .
+
+base:QDSZAZ a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:QECYTU a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:QEU5OO a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX .
+
+base:QFS7QO a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:QNERDH a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R .
+
+base:QO188L a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:QP92UZ a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:QWVCUN a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:R6UZ41 a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV .
+
+base:RB4P76 a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:Z5V1LB .
+
+base:RC1TPD a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:Z5V1LB .
+
+base:RC5RQ2 a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A0VF7A,
+        ocmdp:IP5W9R,
+        ocmdp:Z5V1LB .
+
+base:RE7O0H a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:RI6OQ9 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:D1ZG69 .
+
+base:S10XO8 a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:S3O4XZ a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:S5Z65G a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:S9EQY3 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:SB8D7Q a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV .
+
+base:SE76DJ a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:SENDYJ a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:SJTDH7 a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:IVETAX .
+
+base:SLW2WW a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:Z5V1LB .
+
+base:SNYQCB a dcat:Resource,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:SRMUIR a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:SVIYS2 a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:IP5W9R .
+
+base:SYD8UI a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:SYKA1M a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:TDO7V0 a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:Z5V1LB .
+
+base:TGKUGW a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:TJZBER a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX .
+
+base:TSCZL6 a dcat:Resource,
+        objectcore:F-E5JM9H,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:TSE4SG a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:TT5D9V a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:TVQEUV a dcat:Resource,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:TVZUXD a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:TZSXCJ a dcat:Resource,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:UAD9QJ a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX .
+
+base:UBD8SN a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:UHWPVU a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:SZMZE4 .
+
+base:UILPLU a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:IVETAX .
+
+base:ULBJDK a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:UNU1B6 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:URI36W a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A0VF7A .
+
+base:UTW8G7 a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:V0U46A a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:Z5V1LB .
+
+base:V1NS2H a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:V44ZEZ a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX .
+
+base:V4YD0J a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:Z5V1LB .
+
+base:V9NTAE a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV .
+
+base:VEWMPQ a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:VIAXCT a dcat:Resource,
+        objectcore:F-E5JM9H,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV .
+
+base:VM7Z6E a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:VNF97H a dcat:Resource,
+        objectcore:F-E5JM9H,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:IP5W9R .
+
+base:VP1M97 a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:VXNCN6 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R .
+
+base:W2B8VJ a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69 .
+
+base:W30BHA a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV .
+
+base:W3PG9C a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:D1ZG69 .
+
+base:W44KI6 a dcat:Resource,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:WC3QKD a dcat:Resource,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:WIZJJJ a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:WPCMWV a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:Z5V1LB .
+
+base:WZX1A6 a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:XC4TGP a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:IP5W9R,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:XCE8I2 a dcat:Resource,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:XMJIF0 a dcat:Resource,
+        objectcore:F-E5JM9H,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A0VF7A,
+        ocmdp:IP5W9R,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:XQBXUF a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX .
+
+base:Y08BPD a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW,
+        objectcore:F-YBBA5L ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:Y0KTH8 a dcat:Resource,
+        objectcore:F-MGQGXG .
+
+base:Y2E9KZ a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:A01ISV .
+
+base:Y9BAQ7 a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:IVETAX .
+
+base:YMBJZO a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:A0VF7A .
+
+base:YMK0NX a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:A0VF7A,
+        ocmdp:IP5W9R,
+        ocmdp:Z5V1LB .
+
+base:YRSWZT a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:SZMZE4 .
+
+base:Z6QNCZ a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IVETAX .
+
+base:Z88UQG a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:D1ZG69 .
+
+base:ZA8Z94 a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX,
+        ocmdp:SZMZE4,
+        ocmdp:Z5V1LB .
+
+base:ZHLDG6 a dcat:Resource,
+        objectcore:F-E5JM9H ;
+    dct:subject ocmdp:A01ISV,
+        ocmdp:A0VF7A,
+        ocmdp:D1ZG69,
+        ocmdp:IP5W9R,
+        ocmdp:IVETAX .
+
+base:ZNXI2Y a dcat:Resource,
+        objectcore:F-MGQGXG,
+        objectcore:F-R7HUAW ;
+    dct:subject ocmdp:A0VF7A .
+
+base:ZWPMUH a dcat:Resource,
+        objectcore:F-MGQGXG ;
+    dct:subject ocmdp:IP5W9R .
+
+[] a dcat:Catalog ;
+    dct:contributor "Angela Berthold, Jörg Drauschke, Anja Gerber, Georg Gerleigner, Frank von Hagel, Meike Hopp, Olivia Kaiser, Christoph Klose, Sabine Lang, Katharina Martin, Magdalene Schlösser, Florian Thiery, Sarah Wagner, Bernhard Weisser, Petra Winter, Gabriele Zöllner" ;
+    dct:creator [ a foaf:Person ;
+            foaf:affiliation "Prussian Cultural Heritage Foundation" ;
+            foaf:familyName "Berthold" ;
+            foaf:givenName "Angela" ;
+            foaf:mbox "mailto:a.berthold@smb.spk-berlin.de" ;
+            foaf:orcid "https://orcid.org/0009-0007-8926-5388" ],
+        [ a foaf:Person ;
+            foaf:affiliation "Humboldt-Universität zu Berlin" ;
+            foaf:familyName "Zöllner" ;
+            foaf:givenName "Gabriele" ;
+            foaf:mbox "mailto:gabriele.zoellner@hu-berlin.de" ],
+        [ a foaf:Person ;
+            foaf:affiliation "Prussian Cultural Heritage Foundation" ;
+            foaf:familyName "von Hagel" ;
+            foaf:givenName "Frank" ;
+            foaf:mbox "mailto:f.v.hagel@smb.spk-berlin.de" ;
+            foaf:orcid "https://orcid.org/0000-0003-1349-2131" ],
+        [ a foaf:Person ;
+            foaf:affiliation "LEIZA - Leibniz-Zentrum für Archäologie" ;
+            foaf:familyName "Thiery" ;
+            foaf:givenName "Florian" ;
+            foaf:mbox "mailto:florian.thiery@leiza.de" ;
+            foaf:orcid "https://orcid.org/0000-0002-3246-3531" ] ;
+    dct:description """Aufgabe der Temporary Working Group innerhalb von NFDI4Objects war es, Dienste und Werkzeuge für Forschungssammlungen und Provenienzforschung zu identifizieren und in Katalogform online zu publizieren. Die Samlung soll als Werkzeug vor allem den Einstieg in die Sammlungsarbeit sowie Provenienzforschung erleichtern sowie relevante digitale Anwedungen sammeln und zur Verfügung stellen.
+Diese Sammlung wurde sowohl in inhaltliche als auch in typologische Kategorien gegliedert. Diese Typen sind: Netzwerke und Services, Empfehlungen, Digitale Anwendungen sowie Recherche und Ressourcen. Die inhaltliche Einteilung erfolgte nach Kontexten, diese sind: Koloniale Konetxte, NS-Zeit, SBZ/DDR, Secret/Sacred Objects und Natukunde/Naturwissenschaft. Alle Kategorien sind über einen Filter suchbar. Die Beschreibung der einzelnen Ressourcen wurde größteneils von den entsprechenden, zitierten Quellen übernommen und teilweise modifiziert. Für die gesammelten und zitierten Inhalte übernehmen die Autor*innen dieser Sammlung keine Gewähr.""" ;
+    dct:issued "2025-06-20" ;
+    dct:license "https://creativecommons.org/licenses/by/4.0/" ;
+    dct:publisher "Angela Berthold, Frank von Hagel, Gabriele Zöllner, Florian Thiery" ;
+    dct:title "ta2-prov-tools-services-matrix" ;
+    dcat:contactPoint "Angela Berthold (a.berthold@smb.spk-berlin.de)" ;
+    dcat:keyword "NFDI",
+        "NFDI4Objects",
+        "Provenienzforschung",
+        "Services",
+        "Tools" ;
+    dcat:landingPage "https://github.com/n4o-rse/ta2-prov-tools-services-matrix/" ;
+    dcat:version "1.0" .
+
