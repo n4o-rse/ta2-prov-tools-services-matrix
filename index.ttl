@@ -1,0 +1,3268 @@
+@prefix brick: <https://brickschema.org/schema/Brick#> .
+@prefix csvw: <http://www.w3.org/ns/csvw#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcam: <http://purl.org/dc/dcam/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://ldf.fi/void-ext#> .
+@prefix odrl: <http://www.w3.org/ns/odrl/2/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prof: <http://www.w3.org/ns/dx/prof/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix qb: <http://purl.org/linked-data/cube#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix ssn: <http://www.w3.org/ns/ssn/> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wgs: <https://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/F-E5JM9H_collection> a skos:Collection,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "F-E5JM9H Instances Collection"@en ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    rdfs:member <https://w3id.org/n4o-metadata/prov-matrix/APADYR>,
+        <https://w3id.org/n4o-metadata/prov-matrix/AXAL69>,
+        <https://w3id.org/n4o-metadata/prov-matrix/CGHQCS>,
+        <https://w3id.org/n4o-metadata/prov-matrix/D6TJWB>,
+        <https://w3id.org/n4o-metadata/prov-matrix/F6XOKY>,
+        <https://w3id.org/n4o-metadata/prov-matrix/H2822O>,
+        <https://w3id.org/n4o-metadata/prov-matrix/HJ602T>,
+        <https://w3id.org/n4o-metadata/prov-matrix/IVXK0K>,
+        <https://w3id.org/n4o-metadata/prov-matrix/J6C5UK>,
+        <https://w3id.org/n4o-metadata/prov-matrix/JF2OAR>,
+        <https://w3id.org/n4o-metadata/prov-matrix/K077DZ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KFH87J>,
+        <https://w3id.org/n4o-metadata/prov-matrix/LL972U>,
+        <https://w3id.org/n4o-metadata/prov-matrix/LNYOFV>,
+        <https://w3id.org/n4o-metadata/prov-matrix/LONMJG>,
+        <https://w3id.org/n4o-metadata/prov-matrix/MXLMB9>,
+        <https://w3id.org/n4o-metadata/prov-matrix/MZJD4Q>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N84WLO>,
+        <https://w3id.org/n4o-metadata/prov-matrix/QECYTU>,
+        <https://w3id.org/n4o-metadata/prov-matrix/QO188L>,
+        <https://w3id.org/n4o-metadata/prov-matrix/RB4P76>,
+        <https://w3id.org/n4o-metadata/prov-matrix/S10XO8>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SYD8UI>,
+        <https://w3id.org/n4o-metadata/prov-matrix/TSCZL6>,
+        <https://w3id.org/n4o-metadata/prov-matrix/UHWPVU>,
+        <https://w3id.org/n4o-metadata/prov-matrix/ULBJDK>,
+        <https://w3id.org/n4o-metadata/prov-matrix/UTW8G7>,
+        <https://w3id.org/n4o-metadata/prov-matrix/VIAXCT>,
+        <https://w3id.org/n4o-metadata/prov-matrix/VNF97H>,
+        <https://w3id.org/n4o-metadata/prov-matrix/W3PG9C>,
+        <https://w3id.org/n4o-metadata/prov-matrix/XC4TGP>,
+        <https://w3id.org/n4o-metadata/prov-matrix/XMJIF0>,
+        <https://w3id.org/n4o-metadata/prov-matrix/Y2E9KZ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/Y9BAQ7>,
+        <https://w3id.org/n4o-metadata/prov-matrix/YMK0NX>,
+        <https://w3id.org/n4o-metadata/prov-matrix/YRSWZT>,
+        <https://w3id.org/n4o-metadata/prov-matrix/ZA8Z94>,
+        <https://w3id.org/n4o-metadata/prov-matrix/ZHLDG6> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/F-MGQGXG_collection> a skos:Collection,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "F-MGQGXG Instances Collection"@en ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    rdfs:member <https://w3id.org/n4o-metadata/prov-matrix/A97Q6Z>,
+        <https://w3id.org/n4o-metadata/prov-matrix/AD44PD>,
+        <https://w3id.org/n4o-metadata/prov-matrix/ADER6R>,
+        <https://w3id.org/n4o-metadata/prov-matrix/AFK28O>,
+        <https://w3id.org/n4o-metadata/prov-matrix/AUEFLK>,
+        <https://w3id.org/n4o-metadata/prov-matrix/AZIKVC>,
+        <https://w3id.org/n4o-metadata/prov-matrix/B3351Y>,
+        <https://w3id.org/n4o-metadata/prov-matrix/B7OLG6>,
+        <https://w3id.org/n4o-metadata/prov-matrix/BB2DUO>,
+        <https://w3id.org/n4o-metadata/prov-matrix/BBQB01>,
+        <https://w3id.org/n4o-metadata/prov-matrix/BFFSF7>,
+        <https://w3id.org/n4o-metadata/prov-matrix/BFJE57>,
+        <https://w3id.org/n4o-metadata/prov-matrix/BGJYK5>,
+        <https://w3id.org/n4o-metadata/prov-matrix/BNHR9R>,
+        <https://w3id.org/n4o-metadata/prov-matrix/BT1CIR>,
+        <https://w3id.org/n4o-metadata/prov-matrix/BTOFRG>,
+        <https://w3id.org/n4o-metadata/prov-matrix/BXCKBE>,
+        <https://w3id.org/n4o-metadata/prov-matrix/CPPBM5>,
+        <https://w3id.org/n4o-metadata/prov-matrix/D0SI4T>,
+        <https://w3id.org/n4o-metadata/prov-matrix/D2PC9B>,
+        <https://w3id.org/n4o-metadata/prov-matrix/D6NTL3>,
+        <https://w3id.org/n4o-metadata/prov-matrix/DLMWN1>,
+        <https://w3id.org/n4o-metadata/prov-matrix/DZRME1>,
+        <https://w3id.org/n4o-metadata/prov-matrix/E5W9BC>,
+        <https://w3id.org/n4o-metadata/prov-matrix/EA7BQO>,
+        <https://w3id.org/n4o-metadata/prov-matrix/EG6L98>,
+        <https://w3id.org/n4o-metadata/prov-matrix/EL52VD>,
+        <https://w3id.org/n4o-metadata/prov-matrix/FBGGIF>,
+        <https://w3id.org/n4o-metadata/prov-matrix/FC693T>,
+        <https://w3id.org/n4o-metadata/prov-matrix/FSUN7X>,
+        <https://w3id.org/n4o-metadata/prov-matrix/FXUH5B>,
+        <https://w3id.org/n4o-metadata/prov-matrix/G0YTCB>,
+        <https://w3id.org/n4o-metadata/prov-matrix/G5R4TQ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/GBU3JV>,
+        <https://w3id.org/n4o-metadata/prov-matrix/GUD81T>,
+        <https://w3id.org/n4o-metadata/prov-matrix/H16E7O>,
+        <https://w3id.org/n4o-metadata/prov-matrix/H1OJVU>,
+        <https://w3id.org/n4o-metadata/prov-matrix/HJ602T>,
+        <https://w3id.org/n4o-metadata/prov-matrix/HNPN69>,
+        <https://w3id.org/n4o-metadata/prov-matrix/HQPUHX>,
+        <https://w3id.org/n4o-metadata/prov-matrix/HSZK1U>,
+        <https://w3id.org/n4o-metadata/prov-matrix/HU19AA>,
+        <https://w3id.org/n4o-metadata/prov-matrix/IBUA1A>,
+        <https://w3id.org/n4o-metadata/prov-matrix/IBWGR6>,
+        <https://w3id.org/n4o-metadata/prov-matrix/IDP2JN>,
+        <https://w3id.org/n4o-metadata/prov-matrix/II9Z6B>,
+        <https://w3id.org/n4o-metadata/prov-matrix/ILBUPS>,
+        <https://w3id.org/n4o-metadata/prov-matrix/ILU941>,
+        <https://w3id.org/n4o-metadata/prov-matrix/IYR4HC>,
+        <https://w3id.org/n4o-metadata/prov-matrix/IZMSKQ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/JREAD3>,
+        <https://w3id.org/n4o-metadata/prov-matrix/JS950W>,
+        <https://w3id.org/n4o-metadata/prov-matrix/K5ES6E>,
+        <https://w3id.org/n4o-metadata/prov-matrix/K5GAOS>,
+        <https://w3id.org/n4o-metadata/prov-matrix/K7SN51>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KFHAK9>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KGIKGS>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KK8KZ5>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KMIIUX>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KRZZHH>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KU5E0O>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KU7V30>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KUO3J7>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KUV8ZV>,
+        <https://w3id.org/n4o-metadata/prov-matrix/L2C65C>,
+        <https://w3id.org/n4o-metadata/prov-matrix/L5A6H9>,
+        <https://w3id.org/n4o-metadata/prov-matrix/LCP1O1>,
+        <https://w3id.org/n4o-metadata/prov-matrix/LWBAS6>,
+        <https://w3id.org/n4o-metadata/prov-matrix/M5QXWC>,
+        <https://w3id.org/n4o-metadata/prov-matrix/M5VK4G>,
+        <https://w3id.org/n4o-metadata/prov-matrix/M6K4JV>,
+        <https://w3id.org/n4o-metadata/prov-matrix/MII4VK>,
+        <https://w3id.org/n4o-metadata/prov-matrix/MXH83G>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N5MOJ9>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N7D6CM>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N8NRYC>,
+        <https://w3id.org/n4o-metadata/prov-matrix/NB74LH>,
+        <https://w3id.org/n4o-metadata/prov-matrix/NEH625>,
+        <https://w3id.org/n4o-metadata/prov-matrix/NERQBV>,
+        <https://w3id.org/n4o-metadata/prov-matrix/NF5V4K>,
+        <https://w3id.org/n4o-metadata/prov-matrix/NQYTW6>,
+        <https://w3id.org/n4o-metadata/prov-matrix/O03LVZ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/O1DLP3>,
+        <https://w3id.org/n4o-metadata/prov-matrix/O968YK>,
+        <https://w3id.org/n4o-metadata/prov-matrix/O9PFNI>,
+        <https://w3id.org/n4o-metadata/prov-matrix/OARVY7>,
+        <https://w3id.org/n4o-metadata/prov-matrix/OBH3BB>,
+        <https://w3id.org/n4o-metadata/prov-matrix/OKIYL2>,
+        <https://w3id.org/n4o-metadata/prov-matrix/ONLV6W>,
+        <https://w3id.org/n4o-metadata/prov-matrix/PA3709>,
+        <https://w3id.org/n4o-metadata/prov-matrix/PCDLSD>,
+        <https://w3id.org/n4o-metadata/prov-matrix/PCL7J8>,
+        <https://w3id.org/n4o-metadata/prov-matrix/PHE6HT>,
+        <https://w3id.org/n4o-metadata/prov-matrix/PUBNZL>,
+        <https://w3id.org/n4o-metadata/prov-matrix/Q472ET>,
+        <https://w3id.org/n4o-metadata/prov-matrix/Q8CDIR>,
+        <https://w3id.org/n4o-metadata/prov-matrix/QA0VXX>,
+        <https://w3id.org/n4o-metadata/prov-matrix/QDSZAZ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/QEU5OO>,
+        <https://w3id.org/n4o-metadata/prov-matrix/QFS7QO>,
+        <https://w3id.org/n4o-metadata/prov-matrix/QNERDH>,
+        <https://w3id.org/n4o-metadata/prov-matrix/QP92UZ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/QWVCUN>,
+        <https://w3id.org/n4o-metadata/prov-matrix/R6UZ41>,
+        <https://w3id.org/n4o-metadata/prov-matrix/RC1TPD>,
+        <https://w3id.org/n4o-metadata/prov-matrix/RC5RQ2>,
+        <https://w3id.org/n4o-metadata/prov-matrix/RE7O0H>,
+        <https://w3id.org/n4o-metadata/prov-matrix/RI6OQ9>,
+        <https://w3id.org/n4o-metadata/prov-matrix/S3O4XZ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/S5Z65G>,
+        <https://w3id.org/n4o-metadata/prov-matrix/S9EQY3>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SB8D7Q>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SE76DJ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SJTDH7>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SLW2WW>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SRMUIR>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SVIYS2>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SYKA1M>,
+        <https://w3id.org/n4o-metadata/prov-matrix/TDO7V0>,
+        <https://w3id.org/n4o-metadata/prov-matrix/TGKUGW>,
+        <https://w3id.org/n4o-metadata/prov-matrix/TSE4SG>,
+        <https://w3id.org/n4o-metadata/prov-matrix/UAD9QJ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/UBD8SN>,
+        <https://w3id.org/n4o-metadata/prov-matrix/UILPLU>,
+        <https://w3id.org/n4o-metadata/prov-matrix/UNU1B6>,
+        <https://w3id.org/n4o-metadata/prov-matrix/URI36W>,
+        <https://w3id.org/n4o-metadata/prov-matrix/V0U46A>,
+        <https://w3id.org/n4o-metadata/prov-matrix/V1NS2H>,
+        <https://w3id.org/n4o-metadata/prov-matrix/V44ZEZ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/V4YD0J>,
+        <https://w3id.org/n4o-metadata/prov-matrix/V9NTAE>,
+        <https://w3id.org/n4o-metadata/prov-matrix/VEWMPQ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/VIAXCT>,
+        <https://w3id.org/n4o-metadata/prov-matrix/VM7Z6E>,
+        <https://w3id.org/n4o-metadata/prov-matrix/VXNCN6>,
+        <https://w3id.org/n4o-metadata/prov-matrix/W2B8VJ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/W30BHA>,
+        <https://w3id.org/n4o-metadata/prov-matrix/WPCMWV>,
+        <https://w3id.org/n4o-metadata/prov-matrix/WZX1A6>,
+        <https://w3id.org/n4o-metadata/prov-matrix/XQBXUF>,
+        <https://w3id.org/n4o-metadata/prov-matrix/Y08BPD>,
+        <https://w3id.org/n4o-metadata/prov-matrix/Y0KTH8>,
+        <https://w3id.org/n4o-metadata/prov-matrix/YMBJZO>,
+        <https://w3id.org/n4o-metadata/prov-matrix/Z6QNCZ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/Z88UQG>,
+        <https://w3id.org/n4o-metadata/prov-matrix/ZNXI2Y>,
+        <https://w3id.org/n4o-metadata/prov-matrix/ZWPMUH> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/F-R7HUAW_collection> a skos:Collection,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "F-R7HUAW Instances Collection"@en ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    rdfs:member <https://w3id.org/n4o-metadata/prov-matrix/ATIXOG>,
+        <https://w3id.org/n4o-metadata/prov-matrix/BT1CIR>,
+        <https://w3id.org/n4o-metadata/prov-matrix/BXCKBE>,
+        <https://w3id.org/n4o-metadata/prov-matrix/DLCN7T>,
+        <https://w3id.org/n4o-metadata/prov-matrix/EL52VD>,
+        <https://w3id.org/n4o-metadata/prov-matrix/F593UE>,
+        <https://w3id.org/n4o-metadata/prov-matrix/GUD81T>,
+        <https://w3id.org/n4o-metadata/prov-matrix/IIA9LB>,
+        <https://w3id.org/n4o-metadata/prov-matrix/ILU941>,
+        <https://w3id.org/n4o-metadata/prov-matrix/IZOTK5>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KFHAK9>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KGIKGS>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KK8KZ5>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KMIIUX>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KRZZHH>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KU5E0O>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N2XG9M>,
+        <https://w3id.org/n4o-metadata/prov-matrix/NGTKPB>,
+        <https://w3id.org/n4o-metadata/prov-matrix/ONLV6W>,
+        <https://w3id.org/n4o-metadata/prov-matrix/PA3709>,
+        <https://w3id.org/n4o-metadata/prov-matrix/PCL7J8>,
+        <https://w3id.org/n4o-metadata/prov-matrix/PPIVKC>,
+        <https://w3id.org/n4o-metadata/prov-matrix/Q472ET>,
+        <https://w3id.org/n4o-metadata/prov-matrix/Q8CDIR>,
+        <https://w3id.org/n4o-metadata/prov-matrix/R6UZ41>,
+        <https://w3id.org/n4o-metadata/prov-matrix/S5Z65G>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SB8D7Q>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SJTDH7>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SLW2WW>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SNYQCB>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SYKA1M>,
+        <https://w3id.org/n4o-metadata/prov-matrix/TDO7V0>,
+        <https://w3id.org/n4o-metadata/prov-matrix/TVQEUV>,
+        <https://w3id.org/n4o-metadata/prov-matrix/TZSXCJ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/V0U46A>,
+        <https://w3id.org/n4o-metadata/prov-matrix/V9NTAE>,
+        <https://w3id.org/n4o-metadata/prov-matrix/VIAXCT>,
+        <https://w3id.org/n4o-metadata/prov-matrix/W44KI6>,
+        <https://w3id.org/n4o-metadata/prov-matrix/WC3QKD>,
+        <https://w3id.org/n4o-metadata/prov-matrix/Y08BPD>,
+        <https://w3id.org/n4o-metadata/prov-matrix/ZNXI2Y> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/F-YBBA5L_collection> a skos:Collection,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "F-YBBA5L Instances Collection"@en ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    rdfs:member <https://w3id.org/n4o-metadata/prov-matrix/ATIXOG>,
+        <https://w3id.org/n4o-metadata/prov-matrix/BXCKBE>,
+        <https://w3id.org/n4o-metadata/prov-matrix/D6NTL3>,
+        <https://w3id.org/n4o-metadata/prov-matrix/DAOQKE>,
+        <https://w3id.org/n4o-metadata/prov-matrix/DLCN7T>,
+        <https://w3id.org/n4o-metadata/prov-matrix/DOF1Y0>,
+        <https://w3id.org/n4o-metadata/prov-matrix/E0IE75>,
+        <https://w3id.org/n4o-metadata/prov-matrix/EL52VD>,
+        <https://w3id.org/n4o-metadata/prov-matrix/EVHJ63>,
+        <https://w3id.org/n4o-metadata/prov-matrix/F6XOKY>,
+        <https://w3id.org/n4o-metadata/prov-matrix/FBOY2E>,
+        <https://w3id.org/n4o-metadata/prov-matrix/FXUH5B>,
+        <https://w3id.org/n4o-metadata/prov-matrix/GVN0JQ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/HZUO1H>,
+        <https://w3id.org/n4o-metadata/prov-matrix/I86PSN>,
+        <https://w3id.org/n4o-metadata/prov-matrix/J603A1>,
+        <https://w3id.org/n4o-metadata/prov-matrix/J9KMGB>,
+        <https://w3id.org/n4o-metadata/prov-matrix/JDSXZC>,
+        <https://w3id.org/n4o-metadata/prov-matrix/JREAD3>,
+        <https://w3id.org/n4o-metadata/prov-matrix/JS950W>,
+        <https://w3id.org/n4o-metadata/prov-matrix/K5GAOS>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KHXINC>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KRZZHH>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KUUBHA>,
+        <https://w3id.org/n4o-metadata/prov-matrix/L1YTDU>,
+        <https://w3id.org/n4o-metadata/prov-matrix/LEL4KZ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/M5QXWC>,
+        <https://w3id.org/n4o-metadata/prov-matrix/MGQD3K>,
+        <https://w3id.org/n4o-metadata/prov-matrix/MIISVM>,
+        <https://w3id.org/n4o-metadata/prov-matrix/P81F6G>,
+        <https://w3id.org/n4o-metadata/prov-matrix/PAL6KH>,
+        <https://w3id.org/n4o-metadata/prov-matrix/PFP0QT>,
+        <https://w3id.org/n4o-metadata/prov-matrix/PHE6HT>,
+        <https://w3id.org/n4o-metadata/prov-matrix/PI046O>,
+        <https://w3id.org/n4o-metadata/prov-matrix/RC5RQ2>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SENDYJ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SRMUIR>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SVIYS2>,
+        <https://w3id.org/n4o-metadata/prov-matrix/TJZBER>,
+        <https://w3id.org/n4o-metadata/prov-matrix/TSCZL6>,
+        <https://w3id.org/n4o-metadata/prov-matrix/TT5D9V>,
+        <https://w3id.org/n4o-metadata/prov-matrix/TVZUXD>,
+        <https://w3id.org/n4o-metadata/prov-matrix/V44ZEZ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/VNF97H>,
+        <https://w3id.org/n4o-metadata/prov-matrix/VP1M97>,
+        <https://w3id.org/n4o-metadata/prov-matrix/WIZJJJ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/XCE8I2>,
+        <https://w3id.org/n4o-metadata/prov-matrix/XMJIF0>,
+        <https://w3id.org/n4o-metadata/prov-matrix/Y08BPD> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_w3id.org_objectcoreont_> a void:Linkset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Linkset: N4O_TA2_PROV_Matrix_Tools_&_Services - objectcore:"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget <https://w3id.org/objectcoreont/> ;
+    void:subjectsTarget <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    void:triples 275 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_www.w3.org_2004_02_skos_core_> a void:Linkset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Linkset: N4O_TA2_PROV_Matrix_Tools_&_Services - skos:"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget skos: ;
+    void:subjectsTarget <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    void:triples 5 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_www.w3.org_ns_dcat_> a void:Linkset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Linkset: N4O_TA2_PROV_Matrix_Tools_&_Services - DCAT Vocabulary (dcat:)"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget dcat: ;
+    void:subjectsTarget <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    void:triples 225 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_www.w3id.org_objectcore_terminology_> a void:Linkset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Linkset: N4O_TA2_PROV_Matrix_Tools_&_Services - ocmdp:"@en ;
+    void:linkPredicate dcterms:subject ;
+    void:objectsTarget <http://www.w3id.org/objectcore/terminology/> ;
+    void:subjectsTarget <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    void:triples 725 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_xmlns.com_foaf_0.1_> a void:Linkset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Linkset: N4O_TA2_PROV_Matrix_Tools_&_Services - Friend Of A Friend Ontology (foaf:)"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget foaf: ;
+    void:subjectsTarget <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    void:triples 4 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/Resource_collection> a skos:Collection,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Resource Instances Collection"@en ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    rdfs:member <https://w3id.org/n4o-metadata/prov-matrix/A97Q6Z>,
+        <https://w3id.org/n4o-metadata/prov-matrix/AD44PD>,
+        <https://w3id.org/n4o-metadata/prov-matrix/ADER6R>,
+        <https://w3id.org/n4o-metadata/prov-matrix/AFK28O>,
+        <https://w3id.org/n4o-metadata/prov-matrix/APADYR>,
+        <https://w3id.org/n4o-metadata/prov-matrix/ATIXOG>,
+        <https://w3id.org/n4o-metadata/prov-matrix/AUEFLK>,
+        <https://w3id.org/n4o-metadata/prov-matrix/AXAL69>,
+        <https://w3id.org/n4o-metadata/prov-matrix/AZIKVC>,
+        <https://w3id.org/n4o-metadata/prov-matrix/B3351Y>,
+        <https://w3id.org/n4o-metadata/prov-matrix/B7OLG6>,
+        <https://w3id.org/n4o-metadata/prov-matrix/BB2DUO>,
+        <https://w3id.org/n4o-metadata/prov-matrix/BBQB01>,
+        <https://w3id.org/n4o-metadata/prov-matrix/BFFSF7>,
+        <https://w3id.org/n4o-metadata/prov-matrix/BFJE57>,
+        <https://w3id.org/n4o-metadata/prov-matrix/BGJYK5>,
+        <https://w3id.org/n4o-metadata/prov-matrix/BNHR9R>,
+        <https://w3id.org/n4o-metadata/prov-matrix/BT1CIR>,
+        <https://w3id.org/n4o-metadata/prov-matrix/BTOFRG>,
+        <https://w3id.org/n4o-metadata/prov-matrix/BXCKBE>,
+        <https://w3id.org/n4o-metadata/prov-matrix/CGHQCS>,
+        <https://w3id.org/n4o-metadata/prov-matrix/CPPBM5>,
+        <https://w3id.org/n4o-metadata/prov-matrix/D0SI4T>,
+        <https://w3id.org/n4o-metadata/prov-matrix/D2PC9B>,
+        <https://w3id.org/n4o-metadata/prov-matrix/D6NTL3>,
+        <https://w3id.org/n4o-metadata/prov-matrix/D6TJWB>,
+        <https://w3id.org/n4o-metadata/prov-matrix/DAOQKE>,
+        <https://w3id.org/n4o-metadata/prov-matrix/DLCN7T>,
+        <https://w3id.org/n4o-metadata/prov-matrix/DLMWN1>,
+        <https://w3id.org/n4o-metadata/prov-matrix/DOF1Y0>,
+        <https://w3id.org/n4o-metadata/prov-matrix/DZRME1>,
+        <https://w3id.org/n4o-metadata/prov-matrix/E0IE75>,
+        <https://w3id.org/n4o-metadata/prov-matrix/E5W9BC>,
+        <https://w3id.org/n4o-metadata/prov-matrix/EA7BQO>,
+        <https://w3id.org/n4o-metadata/prov-matrix/EG6L98>,
+        <https://w3id.org/n4o-metadata/prov-matrix/EL52VD>,
+        <https://w3id.org/n4o-metadata/prov-matrix/EVHJ63>,
+        <https://w3id.org/n4o-metadata/prov-matrix/F593UE>,
+        <https://w3id.org/n4o-metadata/prov-matrix/F6XOKY>,
+        <https://w3id.org/n4o-metadata/prov-matrix/FBGGIF>,
+        <https://w3id.org/n4o-metadata/prov-matrix/FBOY2E>,
+        <https://w3id.org/n4o-metadata/prov-matrix/FC693T>,
+        <https://w3id.org/n4o-metadata/prov-matrix/FSUN7X>,
+        <https://w3id.org/n4o-metadata/prov-matrix/FXUH5B>,
+        <https://w3id.org/n4o-metadata/prov-matrix/G0YTCB>,
+        <https://w3id.org/n4o-metadata/prov-matrix/G5R4TQ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/GBU3JV>,
+        <https://w3id.org/n4o-metadata/prov-matrix/GUD81T>,
+        <https://w3id.org/n4o-metadata/prov-matrix/GVN0JQ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/H16E7O>,
+        <https://w3id.org/n4o-metadata/prov-matrix/H1OJVU>,
+        <https://w3id.org/n4o-metadata/prov-matrix/H2822O>,
+        <https://w3id.org/n4o-metadata/prov-matrix/HJ602T>,
+        <https://w3id.org/n4o-metadata/prov-matrix/HNPN69>,
+        <https://w3id.org/n4o-metadata/prov-matrix/HQPUHX>,
+        <https://w3id.org/n4o-metadata/prov-matrix/HSZK1U>,
+        <https://w3id.org/n4o-metadata/prov-matrix/HU19AA>,
+        <https://w3id.org/n4o-metadata/prov-matrix/HZUO1H>,
+        <https://w3id.org/n4o-metadata/prov-matrix/I86PSN>,
+        <https://w3id.org/n4o-metadata/prov-matrix/IBUA1A>,
+        <https://w3id.org/n4o-metadata/prov-matrix/IBWGR6>,
+        <https://w3id.org/n4o-metadata/prov-matrix/IDP2JN>,
+        <https://w3id.org/n4o-metadata/prov-matrix/II9Z6B>,
+        <https://w3id.org/n4o-metadata/prov-matrix/IIA9LB>,
+        <https://w3id.org/n4o-metadata/prov-matrix/ILBUPS>,
+        <https://w3id.org/n4o-metadata/prov-matrix/ILU941>,
+        <https://w3id.org/n4o-metadata/prov-matrix/IVXK0K>,
+        <https://w3id.org/n4o-metadata/prov-matrix/IYR4HC>,
+        <https://w3id.org/n4o-metadata/prov-matrix/IZMSKQ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/IZOTK5>,
+        <https://w3id.org/n4o-metadata/prov-matrix/J603A1>,
+        <https://w3id.org/n4o-metadata/prov-matrix/J6C5UK>,
+        <https://w3id.org/n4o-metadata/prov-matrix/J9KMGB>,
+        <https://w3id.org/n4o-metadata/prov-matrix/JDSXZC>,
+        <https://w3id.org/n4o-metadata/prov-matrix/JF2OAR>,
+        <https://w3id.org/n4o-metadata/prov-matrix/JREAD3>,
+        <https://w3id.org/n4o-metadata/prov-matrix/JS950W>,
+        <https://w3id.org/n4o-metadata/prov-matrix/K077DZ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/K5ES6E>,
+        <https://w3id.org/n4o-metadata/prov-matrix/K5GAOS>,
+        <https://w3id.org/n4o-metadata/prov-matrix/K7SN51>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KFH87J>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KFHAK9>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KGIKGS>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KHXINC>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KK8KZ5>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KMIIUX>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KRZZHH>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KU5E0O>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KU7V30>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KUO3J7>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KUUBHA>,
+        <https://w3id.org/n4o-metadata/prov-matrix/KUV8ZV>,
+        <https://w3id.org/n4o-metadata/prov-matrix/L1YTDU>,
+        <https://w3id.org/n4o-metadata/prov-matrix/L2C65C>,
+        <https://w3id.org/n4o-metadata/prov-matrix/L5A6H9>,
+        <https://w3id.org/n4o-metadata/prov-matrix/LCP1O1>,
+        <https://w3id.org/n4o-metadata/prov-matrix/LEL4KZ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/LL972U>,
+        <https://w3id.org/n4o-metadata/prov-matrix/LNYOFV>,
+        <https://w3id.org/n4o-metadata/prov-matrix/LONMJG>,
+        <https://w3id.org/n4o-metadata/prov-matrix/LWBAS6>,
+        <https://w3id.org/n4o-metadata/prov-matrix/M5QXWC>,
+        <https://w3id.org/n4o-metadata/prov-matrix/M5VK4G>,
+        <https://w3id.org/n4o-metadata/prov-matrix/M6K4JV>,
+        <https://w3id.org/n4o-metadata/prov-matrix/MGQD3K>,
+        <https://w3id.org/n4o-metadata/prov-matrix/MII4VK>,
+        <https://w3id.org/n4o-metadata/prov-matrix/MIISVM>,
+        <https://w3id.org/n4o-metadata/prov-matrix/MXH83G>,
+        <https://w3id.org/n4o-metadata/prov-matrix/MXLMB9>,
+        <https://w3id.org/n4o-metadata/prov-matrix/MZJD4Q>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N2XG9M>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N5MOJ9>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N7D6CM>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N84WLO>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N8NRYC>,
+        <https://w3id.org/n4o-metadata/prov-matrix/NB74LH>,
+        <https://w3id.org/n4o-metadata/prov-matrix/NEH625>,
+        <https://w3id.org/n4o-metadata/prov-matrix/NERQBV>,
+        <https://w3id.org/n4o-metadata/prov-matrix/NF5V4K>,
+        <https://w3id.org/n4o-metadata/prov-matrix/NGTKPB>,
+        <https://w3id.org/n4o-metadata/prov-matrix/NQYTW6>,
+        <https://w3id.org/n4o-metadata/prov-matrix/O03LVZ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/O1DLP3>,
+        <https://w3id.org/n4o-metadata/prov-matrix/O968YK>,
+        <https://w3id.org/n4o-metadata/prov-matrix/O9PFNI>,
+        <https://w3id.org/n4o-metadata/prov-matrix/OARVY7>,
+        <https://w3id.org/n4o-metadata/prov-matrix/OBH3BB>,
+        <https://w3id.org/n4o-metadata/prov-matrix/OKIYL2>,
+        <https://w3id.org/n4o-metadata/prov-matrix/ONLV6W>,
+        <https://w3id.org/n4o-metadata/prov-matrix/P81F6G>,
+        <https://w3id.org/n4o-metadata/prov-matrix/PA3709>,
+        <https://w3id.org/n4o-metadata/prov-matrix/PAL6KH>,
+        <https://w3id.org/n4o-metadata/prov-matrix/PCDLSD>,
+        <https://w3id.org/n4o-metadata/prov-matrix/PCL7J8>,
+        <https://w3id.org/n4o-metadata/prov-matrix/PFP0QT>,
+        <https://w3id.org/n4o-metadata/prov-matrix/PHE6HT>,
+        <https://w3id.org/n4o-metadata/prov-matrix/PI046O>,
+        <https://w3id.org/n4o-metadata/prov-matrix/PPIVKC>,
+        <https://w3id.org/n4o-metadata/prov-matrix/PUBNZL>,
+        <https://w3id.org/n4o-metadata/prov-matrix/Q472ET>,
+        <https://w3id.org/n4o-metadata/prov-matrix/Q8CDIR>,
+        <https://w3id.org/n4o-metadata/prov-matrix/QA0VXX>,
+        <https://w3id.org/n4o-metadata/prov-matrix/QDSZAZ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/QECYTU>,
+        <https://w3id.org/n4o-metadata/prov-matrix/QEU5OO>,
+        <https://w3id.org/n4o-metadata/prov-matrix/QFS7QO>,
+        <https://w3id.org/n4o-metadata/prov-matrix/QNERDH>,
+        <https://w3id.org/n4o-metadata/prov-matrix/QO188L>,
+        <https://w3id.org/n4o-metadata/prov-matrix/QP92UZ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/QWVCUN>,
+        <https://w3id.org/n4o-metadata/prov-matrix/R6UZ41>,
+        <https://w3id.org/n4o-metadata/prov-matrix/RB4P76>,
+        <https://w3id.org/n4o-metadata/prov-matrix/RC1TPD>,
+        <https://w3id.org/n4o-metadata/prov-matrix/RC5RQ2>,
+        <https://w3id.org/n4o-metadata/prov-matrix/RE7O0H>,
+        <https://w3id.org/n4o-metadata/prov-matrix/RI6OQ9>,
+        <https://w3id.org/n4o-metadata/prov-matrix/S10XO8>,
+        <https://w3id.org/n4o-metadata/prov-matrix/S3O4XZ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/S5Z65G>,
+        <https://w3id.org/n4o-metadata/prov-matrix/S9EQY3>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SB8D7Q>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SE76DJ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SENDYJ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SJTDH7>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SLW2WW>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SNYQCB>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SRMUIR>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SVIYS2>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SYD8UI>,
+        <https://w3id.org/n4o-metadata/prov-matrix/SYKA1M>,
+        <https://w3id.org/n4o-metadata/prov-matrix/TDO7V0>,
+        <https://w3id.org/n4o-metadata/prov-matrix/TGKUGW>,
+        <https://w3id.org/n4o-metadata/prov-matrix/TJZBER>,
+        <https://w3id.org/n4o-metadata/prov-matrix/TSCZL6>,
+        <https://w3id.org/n4o-metadata/prov-matrix/TSE4SG>,
+        <https://w3id.org/n4o-metadata/prov-matrix/TT5D9V>,
+        <https://w3id.org/n4o-metadata/prov-matrix/TVQEUV>,
+        <https://w3id.org/n4o-metadata/prov-matrix/TVZUXD>,
+        <https://w3id.org/n4o-metadata/prov-matrix/TZSXCJ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/UAD9QJ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/UBD8SN>,
+        <https://w3id.org/n4o-metadata/prov-matrix/UHWPVU>,
+        <https://w3id.org/n4o-metadata/prov-matrix/UILPLU>,
+        <https://w3id.org/n4o-metadata/prov-matrix/ULBJDK>,
+        <https://w3id.org/n4o-metadata/prov-matrix/UNU1B6>,
+        <https://w3id.org/n4o-metadata/prov-matrix/URI36W>,
+        <https://w3id.org/n4o-metadata/prov-matrix/UTW8G7>,
+        <https://w3id.org/n4o-metadata/prov-matrix/V0U46A>,
+        <https://w3id.org/n4o-metadata/prov-matrix/V1NS2H>,
+        <https://w3id.org/n4o-metadata/prov-matrix/V44ZEZ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/V4YD0J>,
+        <https://w3id.org/n4o-metadata/prov-matrix/V9NTAE>,
+        <https://w3id.org/n4o-metadata/prov-matrix/VEWMPQ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/VIAXCT>,
+        <https://w3id.org/n4o-metadata/prov-matrix/VM7Z6E>,
+        <https://w3id.org/n4o-metadata/prov-matrix/VNF97H>,
+        <https://w3id.org/n4o-metadata/prov-matrix/VP1M97>,
+        <https://w3id.org/n4o-metadata/prov-matrix/VXNCN6>,
+        <https://w3id.org/n4o-metadata/prov-matrix/W2B8VJ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/W30BHA>,
+        <https://w3id.org/n4o-metadata/prov-matrix/W3PG9C>,
+        <https://w3id.org/n4o-metadata/prov-matrix/W44KI6>,
+        <https://w3id.org/n4o-metadata/prov-matrix/WC3QKD>,
+        <https://w3id.org/n4o-metadata/prov-matrix/WIZJJJ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/WPCMWV>,
+        <https://w3id.org/n4o-metadata/prov-matrix/WZX1A6>,
+        <https://w3id.org/n4o-metadata/prov-matrix/XC4TGP>,
+        <https://w3id.org/n4o-metadata/prov-matrix/XCE8I2>,
+        <https://w3id.org/n4o-metadata/prov-matrix/XMJIF0>,
+        <https://w3id.org/n4o-metadata/prov-matrix/XQBXUF>,
+        <https://w3id.org/n4o-metadata/prov-matrix/Y08BPD>,
+        <https://w3id.org/n4o-metadata/prov-matrix/Y0KTH8>,
+        <https://w3id.org/n4o-metadata/prov-matrix/Y2E9KZ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/Y9BAQ7>,
+        <https://w3id.org/n4o-metadata/prov-matrix/YMBJZO>,
+        <https://w3id.org/n4o-metadata/prov-matrix/YMK0NX>,
+        <https://w3id.org/n4o-metadata/prov-matrix/YRSWZT>,
+        <https://w3id.org/n4o-metadata/prov-matrix/Z6QNCZ>,
+        <https://w3id.org/n4o-metadata/prov-matrix/Z88UQG>,
+        <https://w3id.org/n4o-metadata/prov-matrix/ZA8Z94>,
+        <https://w3id.org/n4o-metadata/prov-matrix/ZHLDG6>,
+        <https://w3id.org/n4o-metadata/prov-matrix/ZNXI2Y>,
+        <https://w3id.org/n4o-metadata/prov-matrix/ZWPMUH> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_affiliation> a void:Dataset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Property Partition: affiliation"@en ;
+    void:property foaf:affiliation ;
+    void:triples 4 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_contactPoint> a void:Dataset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Property Partition: contactPoint"@en ;
+    void:property dcat:contactPoint ;
+    void:triples 1 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_contributor> a void:Dataset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Property Partition: contributor"@en ;
+    void:property dcterms:contributor ;
+    void:triples 1 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_creator> a void:Dataset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Property Partition: creator"@en ;
+    void:property dcterms:creator ;
+    void:triples 4 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_description> a void:Dataset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Property Partition: description"@en ;
+    void:property dcterms:description ;
+    void:triples 1 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_familyName> a void:Dataset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Property Partition: familyName"@en ;
+    void:property foaf:familyName ;
+    void:triples 4 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_givenName> a void:Dataset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Property Partition: givenName"@en ;
+    void:property foaf:givenName ;
+    void:triples 4 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_issued> a void:Dataset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Property Partition: issued"@en ;
+    void:property dcterms:issued ;
+    void:triples 1 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_keyword> a void:Dataset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Property Partition: keyword"@en ;
+    void:property dcat:keyword ;
+    void:triples 5 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_landingPage> a void:Dataset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Property Partition: landingPage"@en ;
+    void:property dcat:landingPage ;
+    void:triples 1 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_license> a void:Dataset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Property Partition: license"@en ;
+    void:property dcterms:license ;
+    void:triples 1 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_mbox> a void:Dataset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Property Partition: mbox"@en ;
+    void:property foaf:mbox ;
+    void:triples 4 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_orcid> a void:Dataset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Property Partition: orcid"@en ;
+    void:property foaf:orcid ;
+    void:triples 3 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_publisher> a void:Dataset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Property Partition: publisher"@en ;
+    void:property dcterms:publisher ;
+    void:triples 1 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_subject> a void:Dataset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Property Partition: subject"@en ;
+    void:property dcterms:subject ;
+    void:triples 725 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_title> a void:Dataset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Property Partition: title"@en ;
+    void:property dcterms:title ;
+    void:triples 1 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_type> a void:Dataset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Property Partition: type"@en ;
+    void:property rdf:type ;
+    void:triples 504 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_version> a void:Dataset,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "Property Partition: version"@en ;
+    void:property dcat:version ;
+    void:triples 1 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/A97Q6Z> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/AD44PD> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/ADER6R> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/AFK28O> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/APADYR> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/AUEFLK> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/AXAL69> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/AZIKVC> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A0VF7A> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/B3351Y> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/B7OLG6> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/D1ZG69> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/BB2DUO> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/D1ZG69> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/BBQB01> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/BFFSF7> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/BFJE57> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/BGJYK5> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/BNHR9R> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/BTOFRG> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/D1ZG69> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/CGHQCS> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/CPPBM5> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/D0SI4T> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/D2PC9B> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/D6TJWB> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/DAOQKE> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/DLMWN1> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/D1ZG69> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/DOF1Y0> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/DZRME1> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/E0IE75> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/E5W9BC> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/EA7BQO> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/EG6L98> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/EVHJ63> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/F593UE> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/FBGGIF> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/FBOY2E> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/FC693T> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/FSUN7X> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/G0YTCB> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/G5R4TQ> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/GBU3JV> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/GVN0JQ> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/H16E7O> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/H1OJVU> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/H2822O> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/SZMZE4> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/HNPN69> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/D1ZG69> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/HQPUHX> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/HSZK1U> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/D1ZG69> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/HU19AA> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/HZUO1H> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/I86PSN> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/IBUA1A> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/IBWGR6> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/IDP2JN> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/II9Z6B> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/IIA9LB> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/ILBUPS> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/IVXK0K> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/IYR4HC> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/IZMSKQ> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/IZOTK5> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/J603A1> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/J6C5UK> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/J9KMGB> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/JDSXZC> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/JF2OAR> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/K077DZ> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/K5ES6E> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/K7SN51> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/KFH87J> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/KHXINC> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/KU7V30> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/KUO3J7> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/KUUBHA> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/KUV8ZV> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/L1YTDU> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/L2C65C> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/L5A6H9> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/LCP1O1> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/D1ZG69> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/LEL4KZ> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/LL972U> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/LNYOFV> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/LONMJG> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/LWBAS6> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/M5VK4G> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/M6K4JV> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/MGQD3K> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/MII4VK> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/MIISVM> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/MXH83G> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/MXLMB9> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/MZJD4Q> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N2XG9M> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N5MOJ9> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N7D6CM> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N84WLO> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/SZMZE4> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N8NRYC> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/NB74LH> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/NEH625> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/NERQBV> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/NF5V4K> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/NGTKPB> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/NQYTW6> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/O03LVZ> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/O1DLP3> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/O968YK> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/O9PFNI> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/OARVY7> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/OBH3BB> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/D1ZG69> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/OKIYL2> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/P81F6G> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/PAL6KH> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/PCDLSD> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/PFP0QT> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/PI046O> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/PPIVKC> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/PUBNZL> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/D1ZG69> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/QA0VXX> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/QDSZAZ> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/QECYTU> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/QEU5OO> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/QFS7QO> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/QNERDH> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/QO188L> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/QP92UZ> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/QWVCUN> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/RB4P76> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/RC1TPD> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/RE7O0H> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/RI6OQ9> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/D1ZG69> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/S10XO8> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/S3O4XZ> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/S9EQY3> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/SE76DJ> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/SENDYJ> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/SNYQCB> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/SYD8UI> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/TGKUGW> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/TJZBER> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/TSE4SG> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/TT5D9V> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/TVQEUV> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/TVZUXD> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/TZSXCJ> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/UAD9QJ> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/UBD8SN> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/UHWPVU> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/SZMZE4> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/UILPLU> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/ULBJDK> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/UNU1B6> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/URI36W> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A0VF7A> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/UTW8G7> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/V1NS2H> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/V4YD0J> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/VEWMPQ> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/VM7Z6E> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/VP1M97> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/VXNCN6> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/W2B8VJ> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/W30BHA> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/W3PG9C> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/D1ZG69> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/W44KI6> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/WC3QKD> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/WIZJJJ> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/WPCMWV> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/WZX1A6> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/XC4TGP> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/XCE8I2> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/XQBXUF> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/Y0KTH8> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/Y2E9KZ> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/Y9BAQ7> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/YMBJZO> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A0VF7A> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/YMK0NX> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/YRSWZT> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/SZMZE4> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/Z6QNCZ> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/Z88UQG> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/D1ZG69> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/ZA8Z94> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/ZHLDG6> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/ZWPMUH> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/ATIXOG> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-R7HUAW>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/BT1CIR> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/D6NTL3> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/DLCN7T> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-R7HUAW>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/F6XOKY> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/FXUH5B> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/GUD81T> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/HJ602T> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H>,
+        <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/ILU941> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/JREAD3> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/JS950W> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/K5GAOS> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/KFHAK9> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/KGIKGS> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/KK8KZ5> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/KMIIUX> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/KU5E0O> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/M5QXWC> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/ONLV6W> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/PA3709> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/PCL7J8> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/PHE6HT> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/Q472ET> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/Q8CDIR> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/R6UZ41> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/RC5RQ2> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/S5Z65G> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/SB8D7Q> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/SJTDH7> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/SLW2WW> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/SRMUIR> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/SVIYS2> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/SYKA1M> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/TDO7V0> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/TSCZL6> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/V0U46A> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/V44ZEZ> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/V9NTAE> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/VNF97H> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/XMJIF0> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/ZNXI2Y> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A0VF7A> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/BXCKBE> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/EL52VD> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/KRZZHH> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/IP5W9R> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/VIAXCT> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-E5JM9H>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/Y08BPD> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-MGQGXG>,
+        <https://w3id.org/objectcoreont/F-R7HUAW>,
+        <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> a void:Dataset,
+        <http://www.w3.org/ns/adms#Asset>,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    rdfs:label "N4O_TA2_PROV_Matrix_Tools_&_Services"@en ;
+    ns1:averageLiteralLength 57 ;
+    ns1:averageObjectIRILength 49 ;
+    ns1:averagePropertyIRILength 34 ;
+    ns1:averageSubjectIRILength 48 ;
+    ns1:datatypes 0 ;
+    ns1:distinctBlankNodes 5 ;
+    ns1:distinctIRIReferences 302 ;
+    ns1:distinctLiterals 37 ;
+    ns1:distinctRDFNodes 344 ;
+    ns1:languages 1 ;
+    ns1:propertyClasses 0 ;
+    dc:language <http://www.lexvo.org/page/iso639-1/en> ;
+    dcterms:modified "2025-08-03T15:34:46"^^xsd:dateTime ;
+    dcterms:subject <http://dbpedia.org/resource/Location>,
+        <http://dbpedia.org/resource/OGC_GeoSPARQL>,
+        <http://dbpedia.org/resource/Time>,
+        <http://www.wikidata.org/entity/Q121810372>,
+        foaf:Person ;
+    dcterms:title "N4O_TA2_PROV_Matrix_Tools_&_Services"@en ;
+    vann:preferredNamespacePrefix "base"^^xsd:string ;
+    vann:preferredNamespaceUri "https://w3id.org/n4o-metadata/prov-matrix/"^^xsd:anyURI ;
+    void:classPartition <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_Catalog>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_Collection>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_F-E5JM9H>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_F-MGQGXG>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_F-R7HUAW>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_F-YBBA5L>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_Person>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_Resource> ;
+    void:classes 8 ;
+    void:dataDump <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//index.ttl> ;
+    void:distinctObjects 50 ;
+    void:distinctSubjects 234 ;
+    void:entities 235 ;
+    void:feature <http://www.w3.org/ns/formats/RDFa>,
+        <http://www.w3.org/ns/formats/Turtle> ;
+    void:properties 18 ;
+    void:propertyPartition <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_affiliation>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_contactPoint>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_contributor>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_creator>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_description>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_familyName>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_givenName>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_issued>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_keyword>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_landingPage>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_license>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_mbox>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_orcid>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_publisher>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_subject>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_title>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_type>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_version> ;
+    void:triples 2009 ;
+    void:uriSpace "https://w3id.org/n4o-metadata/prov-matrix/"^^xsd:string ;
+    void:vocabulary ns1:,
+        dcam:,
+        dcmitype:,
+        dc:,
+        dcterms:,
+        qb:,
+        vann:,
+        <http://purl.org/vocommons/voaf#>,
+        void:,
+        doap:,
+        geo:,
+        rdf:,
+        rdfs:,
+        xsd:,
+        owl:,
+        skos:,
+        time:,
+        xml:,
+        <http://www.w3.org/ns/adms#>,
+        csvw:,
+        dcat:,
+        prof:,
+        odrl:,
+        org:,
+        prov:,
+        sh:,
+        sosa:,
+        ssn:,
+        foaf:,
+        brick:,
+        schema:,
+        wgs: ;
+    dcat:distribution <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_dist_ttl> ;
+    dcat:keyword "Location"@en,
+        "OGC GeoSPARQL"@en,
+        "Person"@en,
+        "Q121810372"@en,
+        "Time"@en ;
+    dcat:landingPage <https://n4o-rse.github.io/ta2-prov-tools-services-matrix/> ;
+    foaf:homepage <https://n4o-rse.github.io/ta2-prov-tools-services-matrix/> ;
+    foaf:page <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//index.html> .
+
+[] a dcat:Catalog,
+        <http://www.w3.org/ns/ldp#BasicContainer>,
+        <http://www.w3.org/ns/ldp#Container>,
+        <http://www.w3.org/ns/ldp#Resource> ;
+    dcterms:contributor "Angela Berthold, Jörg Drauschke, Anja Gerber, Georg Gerleigner, Frank von Hagel, Meike Hopp, Olivia Kaiser, Christoph Klose, Sabine Lang, Katharina Martin, Magdalene Schlösser, Florian Thiery, Sarah Wagner, Bernhard Weisser, Petra Winter, Gabriele Zöllner" ;
+    dcterms:creator [ a <http://www.w3.org/ns/ldp#BasicContainer>,
+                <http://www.w3.org/ns/ldp#Container>,
+                <http://www.w3.org/ns/ldp#Resource>,
+                foaf:Person ;
+            void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+            foaf:affiliation "Prussian Cultural Heritage Foundation" ;
+            foaf:familyName "Berthold" ;
+            foaf:givenName "Angela" ;
+            foaf:mbox "mailto:a.berthold@smb.spk-berlin.de" ;
+            foaf:orcid "https://orcid.org/0009-0007-8926-5388" ],
+        [ a <http://www.w3.org/ns/ldp#BasicContainer>,
+                <http://www.w3.org/ns/ldp#Container>,
+                <http://www.w3.org/ns/ldp#Resource>,
+                foaf:Person ;
+            void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+            foaf:affiliation "Humboldt-Universität zu Berlin" ;
+            foaf:familyName "Zöllner" ;
+            foaf:givenName "Gabriele" ;
+            foaf:mbox "mailto:gabriele.zoellner@hu-berlin.de" ],
+        [ a <http://www.w3.org/ns/ldp#BasicContainer>,
+                <http://www.w3.org/ns/ldp#Container>,
+                <http://www.w3.org/ns/ldp#Resource>,
+                foaf:Person ;
+            void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+            foaf:affiliation "Prussian Cultural Heritage Foundation" ;
+            foaf:familyName "von Hagel" ;
+            foaf:givenName "Frank" ;
+            foaf:mbox "mailto:f.v.hagel@smb.spk-berlin.de" ;
+            foaf:orcid "https://orcid.org/0000-0003-1349-2131" ],
+        [ a <http://www.w3.org/ns/ldp#BasicContainer>,
+                <http://www.w3.org/ns/ldp#Container>,
+                <http://www.w3.org/ns/ldp#Resource>,
+                foaf:Person ;
+            void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+            foaf:affiliation "LEIZA - Leibniz-Zentrum für Archäologie" ;
+            foaf:familyName "Thiery" ;
+            foaf:givenName "Florian" ;
+            foaf:mbox "mailto:florian.thiery@leiza.de" ;
+            foaf:orcid "https://orcid.org/0000-0002-3246-3531" ] ;
+    dcterms:description """Aufgabe der Temporary Working Group innerhalb von NFDI4Objects war es, Dienste und Werkzeuge für Forschungssammlungen und Provenienzforschung zu identifizieren und in Katalogform online zu publizieren. Die Samlung soll als Werkzeug vor allem den Einstieg in die Sammlungsarbeit sowie Provenienzforschung erleichtern sowie relevante digitale Anwedungen sammeln und zur Verfügung stellen.
+Diese Sammlung wurde sowohl in inhaltliche als auch in typologische Kategorien gegliedert. Diese Typen sind: Netzwerke und Services, Empfehlungen, Digitale Anwendungen sowie Recherche und Ressourcen. Die inhaltliche Einteilung erfolgte nach Kontexten, diese sind: Koloniale Konetxte, NS-Zeit, SBZ/DDR, Secret/Sacred Objects und Natukunde/Naturwissenschaft. Alle Kategorien sind über einen Filter suchbar. Die Beschreibung der einzelnen Ressourcen wurde größteneils von den entsprechenden, zitierten Quellen übernommen und teilweise modifiziert. Für die gesammelten und zitierten Inhalte übernehmen die Autor*innen dieser Sammlung keine Gewähr.""" ;
+    dcterms:issued "2025-06-20" ;
+    dcterms:license "https://creativecommons.org/licenses/by/4.0/" ;
+    dcterms:publisher "Angela Berthold, Frank von Hagel, Gabriele Zöllner, Florian Thiery" ;
+    dcterms:title "ta2-prov-tools-services-matrix" ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    dcat:contactPoint "Angela Berthold (a.berthold@smb.spk-berlin.de)" ;
+    dcat:keyword "NFDI",
+        "NFDI4Objects",
+        "Provenienzforschung",
+        "Services",
+        "Tools" ;
+    dcat:landingPage "https://github.com/n4o-rse/ta2-prov-tools-services-matrix/" ;
+    dcat:version "1.0" .
+

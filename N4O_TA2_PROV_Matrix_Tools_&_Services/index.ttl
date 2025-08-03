@@ -1,0 +1,135 @@
+@prefix brick: <https://brickschema.org/schema/Brick#> .
+@prefix csvw: <http://www.w3.org/ns/csvw#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcam: <http://purl.org/dc/dcam/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://ldf.fi/void-ext#> .
+@prefix odrl: <http://www.w3.org/ns/odrl/2/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prof: <http://www.w3.org/ns/dx/prof/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix qb: <http://purl.org/linked-data/cube#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix ssn: <http://www.w3.org/ns/ssn/> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wgs: <https://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> a void:Dataset,
+        <http://www.w3.org/ns/adms#Asset>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "N4O_TA2_PROV_Matrix_Tools_&_Services"@en ;
+    ns1:averageLiteralLength 57 ;
+    ns1:averageObjectIRILength 49 ;
+    ns1:averagePropertyIRILength 34 ;
+    ns1:averageSubjectIRILength 48 ;
+    ns1:datatypes 0 ;
+    ns1:distinctBlankNodes 5 ;
+    ns1:distinctIRIReferences 302 ;
+    ns1:distinctLiterals 37 ;
+    ns1:distinctRDFNodes 344 ;
+    ns1:languages 1 ;
+    ns1:propertyClasses 0 ;
+    dc:language <http://www.lexvo.org/page/iso639-1/en> ;
+    dcterms:modified "2025-08-03T15:34:46"^^xsd:dateTime ;
+    dcterms:subject <http://dbpedia.org/resource/Location>,
+        <http://dbpedia.org/resource/OGC_GeoSPARQL>,
+        <http://dbpedia.org/resource/Time>,
+        <http://www.wikidata.org/entity/Q121810372>,
+        foaf:Person ;
+    dcterms:title "N4O_TA2_PROV_Matrix_Tools_&_Services"@en ;
+    vann:preferredNamespacePrefix "base"^^xsd:string ;
+    vann:preferredNamespaceUri "https://w3id.org/n4o-metadata/prov-matrix/"^^xsd:anyURI ;
+    void:classPartition <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_Catalog>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_Collection>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_F-E5JM9H>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_F-MGQGXG>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_F-R7HUAW>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_F-YBBA5L>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_Person>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_Resource> ;
+    void:classes 8 ;
+    void:dataDump <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//index.ttl> ;
+    void:distinctObjects 50 ;
+    void:distinctSubjects 234 ;
+    void:entities 235 ;
+    void:feature <http://www.w3.org/ns/formats/RDFa>,
+        <http://www.w3.org/ns/formats/Turtle> ;
+    void:properties 18 ;
+    void:propertyPartition <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_affiliation>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_contactPoint>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_contributor>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_creator>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_description>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_familyName>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_givenName>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_issued>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_keyword>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_landingPage>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_license>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_mbox>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_orcid>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_publisher>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_subject>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_title>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_type>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_version> ;
+    void:triples 2009 ;
+    void:uriSpace "https://w3id.org/n4o-metadata/prov-matrix/"^^xsd:string ;
+    void:vocabulary ns1:,
+        dcam:,
+        dcmitype:,
+        dc:,
+        dcterms:,
+        qb:,
+        vann:,
+        <http://purl.org/vocommons/voaf#>,
+        void:,
+        doap:,
+        geo:,
+        rdf:,
+        rdfs:,
+        xsd:,
+        owl:,
+        skos:,
+        time:,
+        xml:,
+        <http://www.w3.org/ns/adms#>,
+        csvw:,
+        dcat:,
+        prof:,
+        odrl:,
+        org:,
+        prov:,
+        sh:,
+        sosa:,
+        ssn:,
+        foaf:,
+        brick:,
+        schema:,
+        wgs: ;
+    dcat:distribution <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_dist_ttl> ;
+    dcat:keyword "Location"@en,
+        "OGC GeoSPARQL"@en,
+        "Person"@en,
+        "Q121810372"@en,
+        "Time"@en ;
+    dcat:landingPage <https://n4o-rse.github.io/ta2-prov-tools-services-matrix/> ;
+    foaf:homepage <https://n4o-rse.github.io/ta2-prov-tools-services-matrix/> ;
+    foaf:page <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//index.html> .
+

@@ -1,0 +1,643 @@
+@prefix adms: <http://www.w3.org/ns/adms#> .
+@prefix brick: <https://brickschema.org/schema/Brick#> .
+@prefix csvw: <http://www.w3.org/ns/csvw#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcam: <http://purl.org/dc/dcam/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix odrl: <http://www.w3.org/ns/odrl/2/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prof: <http://www.w3.org/ns/dx/prof/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix qb: <http://purl.org/linked-data/cube#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix ssn: <http://www.w3.org/ns/ssn/> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix vext: <http://ldf.fi/void-ext#> .
+@prefix voaf: <http://purl.org/vocommons/voaf#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wgs: <https://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://github.com/n4o-rse/ta2-prov-tools-services-matrix> a adms:AssetRepository ;
+    rdfs:label "Repository for N4O_TA2_PROV_Matrix_Tools_&_Services"@en ;
+    dcat:accessURL "https://github.com/n4o-rse/ta2-prov-tools-services-matrix"^^xsd:anyURI ;
+    dcat:dataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_w3id.org_objectcoreont_> a void:Linkset ;
+    rdfs:label "Linkset: N4O_TA2_PROV_Matrix_Tools_&_Services - objectcore:"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget <https://w3id.org/objectcoreont/> ;
+    void:subjectsTarget <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    void:triples 275 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_www.w3.org_2004_02_skos_core_> a void:Linkset ;
+    rdfs:label "Linkset: N4O_TA2_PROV_Matrix_Tools_&_Services - skos:"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget skos: ;
+    void:subjectsTarget <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    void:triples 5 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_www.w3.org_ns_dcat_> a void:Linkset ;
+    rdfs:label "Linkset: N4O_TA2_PROV_Matrix_Tools_&_Services - DCAT Vocabulary (dcat:)"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget dcat: ;
+    void:subjectsTarget <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    void:triples 225 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_www.w3id.org_objectcore_terminology_> a void:Linkset ;
+    rdfs:label "Linkset: N4O_TA2_PROV_Matrix_Tools_&_Services - ocmdp:"@en ;
+    void:linkPredicate dcterms:subject ;
+    void:objectsTarget <http://www.w3id.org/objectcore/terminology/> ;
+    void:subjectsTarget <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    void:triples 725 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_xmlns.com_foaf_0.1_> a void:Linkset ;
+    rdfs:label "Linkset: N4O_TA2_PROV_Matrix_Tools_&_Services - Friend Of A Friend Ontology (foaf:)"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget foaf: ;
+    void:subjectsTarget <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    void:triples 4 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/adms_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/adms# in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/brick_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary https://brickschema.org/schema/Brick# in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/csvw_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/csvw# in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/dc_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/dc/elements/1.1/ in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/dcam_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/dc/dcam/ in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/dcat_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/dcat# in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    voaf:occurrences 450 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/dcmitype_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/dc/dcmitype/ in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/dcterms_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/dc/terms/ in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/doap_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://usefulinc.com/ns/doap# in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/foaf_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://xmlns.com/foaf/0.1/ in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    voaf:occurrences 8 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/geo_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.opengis.net/ont/geosparql# in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/odrl_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/odrl/2/ in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/org_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/org# in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/owl_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2002/07/owl# in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/prof_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/dx/prof/ in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/prov_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/prov# in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/qb_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/linked-data/cube# in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/rdf_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/1999/02/22-rdf-syntax-ns# in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/rdfs_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2000/01/rdf-schema# in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/schema_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary https://schema.org/ in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/sh_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/shacl# in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/skos_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2004/02/skos/core# in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    voaf:occurrences 10 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/sosa_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/sosa/ in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/ssn_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/ssn/ in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/time_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2006/time# in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/vann_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/vocab/vann/ in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/vext_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://ldf.fi/void-ext# in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/voaf_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/vocommons/voaf# in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/void_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://rdfs.org/ns/void# in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/wgs_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary https://www.w3.org/2003/01/geo/wgs84_pos# in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/xml_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/XML/1998/namespace in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/xsd_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2001/XMLSchema# in N4O_TA2_PROV_Matrix_Tools_&_Services" ;
+    voaf:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+
+<http://dbpedia.org/resource/Location> rdfs:label "Location"@en .
+
+<http://dbpedia.org/resource/OGC_GeoSPARQL> rdfs:label "OGC GeoSPARQL"@en .
+
+<http://dbpedia.org/resource/Time> rdfs:label "Time Data"@en .
+
+vext: a voaf:Vocabulary ;
+    rdfs:label "vext Vocabulary"@en ;
+    vann:preferredNamespacePrefix "vext"^^xsd:string ;
+    vann:preferredNamespaceUri "http://ldf.fi/void-ext#"^^xsd:anyURI ;
+    voaf:usageInDataset <http://ldf.fi/void-ext#_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+dcam: a voaf:Vocabulary ;
+    rdfs:label "dcam Vocabulary"@en ;
+    vann:preferredNamespacePrefix "dcam"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/dc/dcam/"^^xsd:anyURI ;
+    voaf:usageInDataset <http://purl.org/dc/dcam/_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+dcmitype: a voaf:Vocabulary ;
+    rdfs:label "dcmitype Vocabulary"@en ;
+    vann:preferredNamespacePrefix "dcmitype"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/dc/dcmitype/"^^xsd:anyURI ;
+    voaf:usageInDataset <http://purl.org/dc/dcmitype/_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+dc: a voaf:Vocabulary ;
+    rdfs:label "dc Vocabulary"@en ;
+    vann:preferredNamespacePrefix "dc"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/dc/elements/1.1/"^^xsd:anyURI ;
+    voaf:usageInDataset <http://purl.org/dc/elements/1.1/_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+dcterms: a voaf:Vocabulary ;
+    rdfs:label "dcterms Vocabulary"@en ;
+    vann:preferredNamespacePrefix "dcterms"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/dc/terms/"^^xsd:anyURI ;
+    voaf:usageInDataset <http://purl.org/dc/terms/_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+qb: a voaf:Vocabulary ;
+    rdfs:label "qb Vocabulary"@en ;
+    vann:preferredNamespacePrefix "qb"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/linked-data/cube#"^^xsd:anyURI ;
+    voaf:usageInDataset <http://purl.org/linked-data/cube#_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+vann: a voaf:Vocabulary ;
+    rdfs:label "vann Vocabulary"@en ;
+    vann:preferredNamespacePrefix "vann"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/vocab/vann/"^^xsd:anyURI ;
+    voaf:usageInDataset <http://purl.org/vocab/vann/_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+voaf: a voaf:Vocabulary ;
+    rdfs:label "voaf Vocabulary"@en ;
+    vann:preferredNamespacePrefix "voaf"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/vocommons/voaf#"^^xsd:anyURI ;
+    voaf:usageInDataset <http://purl.org/vocommons/voaf#_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+void: a voaf:Vocabulary ;
+    rdfs:label "Vocabulary of Interlinked Datasets (VoID)"@en ;
+    vann:preferredNamespacePrefix "void"^^xsd:string ;
+    vann:preferredNamespaceUri "http://rdfs.org/ns/void#"^^xsd:anyURI ;
+    voaf:usageInDataset <http://rdfs.org/ns/void#_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+doap: a voaf:Vocabulary ;
+    rdfs:label "doap Vocabulary"@en ;
+    vann:preferredNamespacePrefix "doap"^^xsd:string ;
+    vann:preferredNamespaceUri "http://usefulinc.com/ns/doap#"^^xsd:anyURI ;
+    voaf:usageInDataset <http://usefulinc.com/ns/doap#_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+geo: a voaf:Vocabulary ;
+    rdfs:label "The GeoSPARQL Ontology"@en ;
+    vann:preferredNamespacePrefix "geo"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.opengis.net/ont/geosparql#"^^xsd:anyURI ;
+    voaf:usageInDataset <http://www.opengis.net/ont/geosparql#_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+rdf: a voaf:Vocabulary ;
+    rdfs:label "The RDF Concepts Vocabulary (RDF)"@en ;
+    vann:preferredNamespacePrefix "rdf"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/1999/02/22-rdf-syntax-ns#"^^xsd:anyURI ;
+    voaf:usageInDataset <http://www.w3.org/1999/02/22-rdf-syntax-ns#_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+rdfs: a voaf:Vocabulary ;
+    rdfs:label "The RDF Schema vocabulary (RDFS)"@en ;
+    vann:preferredNamespacePrefix "rdfs"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/2000/01/rdf-schema#"^^xsd:anyURI ;
+    voaf:usageInDataset <http://www.w3.org/2000/01/rdf-schema#_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+xsd: a voaf:Vocabulary ;
+    rdfs:label "XML Schema"@en ;
+    vann:preferredNamespacePrefix "xsd"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/2001/XMLSchema#"^^xsd:anyURI ;
+    voaf:usageInDataset <http://www.w3.org/2001/XMLSchema#_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+owl: a voaf:Vocabulary ;
+    rdfs:label "Web Ontology Language 2 Vocabulary"@en ;
+    vann:preferredNamespacePrefix "owl"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/2002/07/owl#"^^xsd:anyURI ;
+    voaf:usageInDataset <http://www.w3.org/2002/07/owl#_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+time: a voaf:Vocabulary ;
+    rdfs:label "time Vocabulary"@en ;
+    vann:preferredNamespacePrefix "time"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/2006/time#"^^xsd:anyURI ;
+    voaf:usageInDataset <http://www.w3.org/2006/time#_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+xml: a voaf:Vocabulary ;
+    rdfs:label "xml Vocabulary"@en ;
+    vann:preferredNamespacePrefix "xml"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/XML/1998/namespace"^^xsd:anyURI ;
+    voaf:usageInDataset xml:_N4O_TA2_PROV_Matrix_Tools_&_Services_occ .
+
+adms: a voaf:Vocabulary ;
+    rdfs:label "adms Vocabulary"@en ;
+    vann:preferredNamespacePrefix "adms"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/adms#"^^xsd:anyURI ;
+    voaf:usageInDataset <http://www.w3.org/ns/adms#_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+csvw: a voaf:Vocabulary ;
+    rdfs:label "csvw Vocabulary"@en ;
+    vann:preferredNamespacePrefix "csvw"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/csvw#"^^xsd:anyURI ;
+    voaf:usageInDataset <http://www.w3.org/ns/csvw#_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+prof: a voaf:Vocabulary ;
+    rdfs:label "prof Vocabulary"@en ;
+    vann:preferredNamespacePrefix "prof"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/dx/prof/"^^xsd:anyURI ;
+    voaf:usageInDataset <http://www.w3.org/ns/dx/prof/_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+odrl: a voaf:Vocabulary ;
+    rdfs:label "odrl Vocabulary"@en ;
+    vann:preferredNamespacePrefix "odrl"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/odrl/2/"^^xsd:anyURI ;
+    voaf:usageInDataset <http://www.w3.org/ns/odrl/2/_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+org: a voaf:Vocabulary ;
+    rdfs:label "org Vocabulary"@en ;
+    vann:preferredNamespacePrefix "org"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/org#"^^xsd:anyURI ;
+    voaf:usageInDataset <http://www.w3.org/ns/org#_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+prov: a voaf:Vocabulary ;
+    rdfs:label "W3C Provenance Ontology"@en ;
+    vann:preferredNamespacePrefix "prov"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/prov#"^^xsd:anyURI ;
+    voaf:usageInDataset <http://www.w3.org/ns/prov#_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+sh: a voaf:Vocabulary ;
+    rdfs:label "Shapes Constraint Language (SHACL)"@en ;
+    vann:preferredNamespacePrefix "sh"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/shacl#"^^xsd:anyURI ;
+    voaf:usageInDataset <http://www.w3.org/ns/shacl#_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+sosa: a voaf:Vocabulary ;
+    rdfs:label "Sensor, Observation, Sample, and Actuator (SOSA) Ontology"@en ;
+    vann:preferredNamespacePrefix "sosa"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/sosa/"^^xsd:anyURI ;
+    voaf:usageInDataset <http://www.w3.org/ns/sosa/_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+ssn: a voaf:Vocabulary ;
+    rdfs:label "ssn Vocabulary"@en ;
+    vann:preferredNamespacePrefix "ssn"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/ssn/"^^xsd:anyURI ;
+    voaf:usageInDataset <http://www.w3.org/ns/ssn/_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+<http://www.wikidata.org/entity/Q121810372> rdfs:label "geospatial data"@en .
+
+brick: a voaf:Vocabulary ;
+    rdfs:label "brick Vocabulary"@en ;
+    vann:preferredNamespacePrefix "brick"^^xsd:string ;
+    vann:preferredNamespaceUri "https://brickschema.org/schema/Brick#"^^xsd:anyURI ;
+    voaf:usageInDataset <https://brickschema.org/schema/Brick#_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+schema: a voaf:Vocabulary ;
+    rdfs:label "schema Vocabulary"@en ;
+    vann:preferredNamespacePrefix "schema"^^xsd:string ;
+    vann:preferredNamespaceUri "https://schema.org/"^^xsd:anyURI ;
+    voaf:usageInDataset <https://schema.org/_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_Catalog> a void:Dataset ;
+    rdfs:label "Class Partition: Catalog"@en ;
+    void:class dcat:Catalog ;
+    void:entities 1 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_Collection> a void:Dataset ;
+    rdfs:label "Class Partition: Collection"@en ;
+    void:class skos:Collection ;
+    void:entities 5 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_F-E5JM9H> a void:Dataset ;
+    rdfs:label "Class Partition: F-E5JM9H"@en ;
+    void:class <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    void:entities 38 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_F-MGQGXG> a void:Dataset ;
+    rdfs:label "Class Partition: F-MGQGXG"@en ;
+    void:class <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    void:entities 147 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_F-R7HUAW> a void:Dataset ;
+    rdfs:label "Class Partition: F-R7HUAW"@en ;
+    void:class <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    void:entities 41 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_F-YBBA5L> a void:Dataset ;
+    rdfs:label "Class Partition: F-YBBA5L"@en ;
+    void:class <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    void:entities 49 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_Person> a void:Dataset ;
+    rdfs:label "Class Partition: Person"@en ;
+    void:class foaf:Person ;
+    void:entities 4 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_Resource> a void:Dataset ;
+    rdfs:label "Class Partition: Resource"@en ;
+    void:class dcat:Resource ;
+    void:entities 224 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_affiliation> a void:Dataset ;
+    rdfs:label "Property Partition: affiliation"@en ;
+    void:property foaf:affiliation ;
+    void:triples 4 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_contactPoint> a void:Dataset ;
+    rdfs:label "Property Partition: contactPoint"@en ;
+    void:property dcat:contactPoint ;
+    void:triples 1 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_contributor> a void:Dataset ;
+    rdfs:label "Property Partition: contributor"@en ;
+    void:property dcterms:contributor ;
+    void:triples 1 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_creator> a void:Dataset ;
+    rdfs:label "Property Partition: creator"@en ;
+    void:property dcterms:creator ;
+    void:triples 4 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_description> a void:Dataset ;
+    rdfs:label "Property Partition: description"@en ;
+    void:property dcterms:description ;
+    void:triples 1 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_dist_ttl> a adms:AssetDistribution ;
+    rdfs:label "N4O_TA2_PROV_Matrix_Tools_&_Services TTL Distribution"@en ;
+    dcat:downloadURL "https://n4o-rse.github.io/ta2-prov-tools-services-matrix//index.ttl"^^xsd:anyURI ;
+    dcat:mediaType <http://www.w3.org/ns/formats/Turtle> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_familyName> a void:Dataset ;
+    rdfs:label "Property Partition: familyName"@en ;
+    void:property foaf:familyName ;
+    void:triples 4 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_givenName> a void:Dataset ;
+    rdfs:label "Property Partition: givenName"@en ;
+    void:property foaf:givenName ;
+    void:triples 4 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_issued> a void:Dataset ;
+    rdfs:label "Property Partition: issued"@en ;
+    void:property dcterms:issued ;
+    void:triples 1 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_keyword> a void:Dataset ;
+    rdfs:label "Property Partition: keyword"@en ;
+    void:property dcat:keyword ;
+    void:triples 5 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_landingPage> a void:Dataset ;
+    rdfs:label "Property Partition: landingPage"@en ;
+    void:property dcat:landingPage ;
+    void:triples 1 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_license> a void:Dataset ;
+    rdfs:label "Property Partition: license"@en ;
+    void:property dcterms:license ;
+    void:triples 1 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_mbox> a void:Dataset ;
+    rdfs:label "Property Partition: mbox"@en ;
+    void:property foaf:mbox ;
+    void:triples 4 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_orcid> a void:Dataset ;
+    rdfs:label "Property Partition: orcid"@en ;
+    void:property foaf:orcid ;
+    void:triples 3 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_publisher> a void:Dataset ;
+    rdfs:label "Property Partition: publisher"@en ;
+    void:property dcterms:publisher ;
+    void:triples 1 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_subject> a void:Dataset ;
+    rdfs:label "Property Partition: subject"@en ;
+    void:property dcterms:subject ;
+    void:triples 725 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_title> a void:Dataset ;
+    rdfs:label "Property Partition: title"@en ;
+    void:property dcterms:title ;
+    void:triples 1 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_type> a void:Dataset ;
+    rdfs:label "Property Partition: type"@en ;
+    void:property rdf:type ;
+    void:triples 504 .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_version> a void:Dataset ;
+    rdfs:label "Property Partition: version"@en ;
+    void:property dcat:version ;
+    void:triples 1 .
+
+wgs: a voaf:Vocabulary ;
+    rdfs:label "wgs Vocabulary"@en ;
+    vann:preferredNamespacePrefix "wgs"^^xsd:string ;
+    vann:preferredNamespaceUri "https://www.w3.org/2003/01/geo/wgs84_pos#"^^xsd:anyURI ;
+    voaf:usageInDataset <https://www.w3.org/2003/01/geo/wgs84_pos#_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+skos: a voaf:Vocabulary ;
+    rdfs:label "skos Vocabulary"@en ;
+    vann:preferredNamespacePrefix "skos"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/2004/02/skos/core#"^^xsd:anyURI ;
+    voaf:usageInDataset <http://www.w3.org/2004/02/skos/core#_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+dcat: a voaf:Vocabulary ;
+    rdfs:label "DCAT Vocabulary"@en ;
+    vann:preferredNamespacePrefix "dcat"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/dcat#"^^xsd:anyURI ;
+    voaf:usageInDataset <http://www.w3.org/ns/dcat#_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+foaf: a voaf:Vocabulary ;
+    rdfs:label "Friend Of A Friend Ontology"@en ;
+    vann:preferredNamespacePrefix "foaf"^^xsd:string ;
+    vann:preferredNamespaceUri "http://xmlns.com/foaf/0.1/"^^xsd:anyURI ;
+    voaf:usageInDataset <http://xmlns.com/foaf/0.1/_N4O_TA2_PROV_Matrix_Tools_&_Services_occ> .
+
+foaf:Person rdfs:label "Person"@en .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> a void:Dataset,
+        adms:Asset ;
+    rdfs:label "N4O_TA2_PROV_Matrix_Tools_&_Services"@en ;
+    vext:averageLiteralLength 57 ;
+    vext:averageObjectIRILength 49 ;
+    vext:averagePropertyIRILength 34 ;
+    vext:averageSubjectIRILength 48 ;
+    vext:datatypes 0 ;
+    vext:distinctBlankNodes 5 ;
+    vext:distinctIRIReferences 302 ;
+    vext:distinctLiterals 37 ;
+    vext:distinctRDFNodes 344 ;
+    vext:languages 1 ;
+    vext:propertyClasses 0 ;
+    dc:language <http://www.lexvo.org/page/iso639-1/en> ;
+    dcterms:modified "2025-08-03T15:34:46"^^xsd:dateTime ;
+    dcterms:subject <http://dbpedia.org/resource/Location>,
+        <http://dbpedia.org/resource/OGC_GeoSPARQL>,
+        <http://dbpedia.org/resource/Time>,
+        <http://www.wikidata.org/entity/Q121810372>,
+        foaf:Person ;
+    dcterms:title "N4O_TA2_PROV_Matrix_Tools_&_Services"@en ;
+    vann:preferredNamespacePrefix "base"^^xsd:string ;
+    vann:preferredNamespaceUri "https://w3id.org/n4o-metadata/prov-matrix/"^^xsd:anyURI ;
+    void:classPartition <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_Catalog>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_Collection>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_F-E5JM9H>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_F-MGQGXG>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_F-R7HUAW>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_F-YBBA5L>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_Person>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_Resource> ;
+    void:classes 8 ;
+    void:dataDump <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//index.ttl> ;
+    void:distinctObjects 50 ;
+    void:distinctSubjects 234 ;
+    void:entities 235 ;
+    void:feature <http://www.w3.org/ns/formats/RDFa>,
+        <http://www.w3.org/ns/formats/Turtle> ;
+    void:properties 18 ;
+    void:propertyPartition <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_affiliation>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_contactPoint>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_contributor>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_creator>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_description>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_familyName>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_givenName>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_issued>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_keyword>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_landingPage>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_license>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_mbox>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_orcid>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_publisher>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_subject>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_title>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_type>,
+        <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_version> ;
+    void:triples 2009 ;
+    void:uriSpace "https://w3id.org/n4o-metadata/prov-matrix/"^^xsd:string ;
+    void:vocabulary vext:,
+        dcam:,
+        dcmitype:,
+        dc:,
+        dcterms:,
+        qb:,
+        vann:,
+        voaf:,
+        void:,
+        doap:,
+        geo:,
+        rdf:,
+        rdfs:,
+        xsd:,
+        owl:,
+        skos:,
+        time:,
+        xml:,
+        adms:,
+        csvw:,
+        dcat:,
+        prof:,
+        odrl:,
+        org:,
+        prov:,
+        sh:,
+        sosa:,
+        ssn:,
+        foaf:,
+        brick:,
+        schema:,
+        wgs: ;
+    dcat:distribution <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_dist_ttl> ;
+    dcat:keyword "Location"@en,
+        "OGC GeoSPARQL"@en,
+        "Person"@en,
+        "Q121810372"@en,
+        "Time"@en ;
+    dcat:landingPage <https://n4o-rse.github.io/ta2-prov-tools-services-matrix/> ;
+    foaf:homepage <https://n4o-rse.github.io/ta2-prov-tools-services-matrix/> ;
+    foaf:page <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//index.html> .
+

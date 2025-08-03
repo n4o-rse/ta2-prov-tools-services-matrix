@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services_w3id.org_objectcoreont_> a void:Linkset,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Linkset: N4O_TA2_PROV_Matrix_Tools_&_Services - objectcore:"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget <https://w3id.org/objectcoreont/> ;
+    void:subjectsTarget <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    void:triples 275 .
+

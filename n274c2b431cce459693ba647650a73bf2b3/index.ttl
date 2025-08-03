@@ -1,0 +1,12 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+[] a <http://www.w3.org/ns/ldp#Resource>,
+        foaf:Person,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    foaf:affiliation "Humboldt-Universität zu Berlin" ;
+    foaf:familyName "Zöllner" ;
+    foaf:givenName "Gabriele" ;
+    foaf:mbox "mailto:gabriele.zoellner@hu-berlin.de" .
+

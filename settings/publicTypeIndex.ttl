@@ -1,0 +1,2080 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.w3.org/ns/solid/terms#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl> a <http://www.w3.org/ns/ldp#RDFResource>,
+        ns1:ListedDocument,
+        ns1:TypeIndex ;
+    rdfs:label "Public Type Index"@en ;
+    rdfs:comment "This Document contains a list of links to other Documents, along with the type of data that is to be included in those Documents"@en ;
+    rdfs:member <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#A97Q6Z_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#A97Q6Z_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#AD44PD_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#AD44PD_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ADER6R_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ADER6R_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#AFK28O_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#AFK28O_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#APADYR_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#APADYR_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ATIXOG_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ATIXOG_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ATIXOG_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#AUEFLK_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#AUEFLK_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#AXAL69_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#AXAL69_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#AZIKVC_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#AZIKVC_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#B3351Y_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#B3351Y_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#B7OLG6_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#B7OLG6_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BB2DUO_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BB2DUO_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BBQB01_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BBQB01_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BFFSF7_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BFFSF7_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BFJE57_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BFJE57_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BGJYK5_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BGJYK5_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BNHR9R_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BNHR9R_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BT1CIR_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BT1CIR_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BT1CIR_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BTOFRG_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BTOFRG_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BXCKBE_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BXCKBE_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BXCKBE_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BXCKBE_suniv3_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#CGHQCS_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#CGHQCS_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#CPPBM5_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#CPPBM5_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Catalog>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Collection>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#D0SI4T_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#D0SI4T_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#D2PC9B_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#D2PC9B_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#D6NTL3_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#D6NTL3_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#D6NTL3_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#D6TJWB_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#D6TJWB_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#DAOQKE_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#DAOQKE_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#DLCN7T_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#DLCN7T_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#DLCN7T_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#DLMWN1_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#DLMWN1_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#DOF1Y0_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#DOF1Y0_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#DZRME1_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#DZRME1_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#E0IE75_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#E0IE75_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#E5W9BC_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#E5W9BC_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#EA7BQO_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#EA7BQO_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#EG6L98_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#EG6L98_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#EL52VD_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#EL52VD_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#EL52VD_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#EL52VD_suniv3_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#EVHJ63_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#EVHJ63_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F-E5JM9H>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F-E5JM9H_collection>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F-MGQGXG>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F-MGQGXG_collection>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F-R7HUAW>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F-R7HUAW_collection>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F-YBBA5L>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F-YBBA5L_collection>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F593UE_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F593UE_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F6XOKY_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F6XOKY_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F6XOKY_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#FBGGIF_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#FBGGIF_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#FBOY2E_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#FBOY2E_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#FC693T_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#FC693T_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#FSUN7X_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#FSUN7X_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#FXUH5B_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#FXUH5B_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#FXUH5B_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#G0YTCB_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#G0YTCB_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#G5R4TQ_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#G5R4TQ_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#GBU3JV_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#GBU3JV_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#GUD81T_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#GUD81T_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#GUD81T_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#GVN0JQ_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#GVN0JQ_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#H16E7O_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#H16E7O_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#H1OJVU_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#H1OJVU_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#H2822O_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#H2822O_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HJ602T_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HJ602T_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HJ602T_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HNPN69_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HNPN69_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HQPUHX_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HQPUHX_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HSZK1U_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HSZK1U_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HU19AA_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HU19AA_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HZUO1H_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HZUO1H_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#I86PSN_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#I86PSN_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IBUA1A_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IBUA1A_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IBWGR6_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IBWGR6_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IDP2JN_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IDP2JN_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#II9Z6B_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#II9Z6B_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IIA9LB_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IIA9LB_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ILBUPS_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ILBUPS_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ILU941_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ILU941_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ILU941_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IVXK0K_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IVXK0K_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IYR4HC_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IYR4HC_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IZMSKQ_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IZMSKQ_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IZOTK5_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IZOTK5_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#J603A1_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#J603A1_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#J6C5UK_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#J6C5UK_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#J9KMGB_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#J9KMGB_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#JDSXZC_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#JDSXZC_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#JF2OAR_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#JF2OAR_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#JREAD3_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#JREAD3_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#JREAD3_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#JS950W_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#JS950W_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#JS950W_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#K077DZ_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#K077DZ_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#K5ES6E_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#K5ES6E_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#K5GAOS_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#K5GAOS_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#K5GAOS_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#K7SN51_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#K7SN51_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KFH87J_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KFH87J_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KFHAK9_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KFHAK9_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KFHAK9_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KGIKGS_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KGIKGS_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KGIKGS_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KHXINC_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KHXINC_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KK8KZ5_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KK8KZ5_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KK8KZ5_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KMIIUX_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KMIIUX_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KMIIUX_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KRZZHH_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KRZZHH_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KRZZHH_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KRZZHH_suniv3_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KU5E0O_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KU5E0O_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KU5E0O_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KU7V30_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KU7V30_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KUO3J7_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KUO3J7_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KUUBHA_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KUUBHA_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KUV8ZV_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KUV8ZV_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#L1YTDU_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#L1YTDU_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#L2C65C_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#L2C65C_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#L5A6H9_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#L5A6H9_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LCP1O1_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LCP1O1_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LEL4KZ_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LEL4KZ_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LL972U_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LL972U_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LNYOFV_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LNYOFV_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LONMJG_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LONMJG_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LWBAS6_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LWBAS6_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#M5QXWC_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#M5QXWC_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#M5QXWC_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#M5VK4G_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#M5VK4G_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#M6K4JV_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#M6K4JV_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MGQD3K_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MGQD3K_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MII4VK_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MII4VK_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MIISVM_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MIISVM_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MXH83G_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MXH83G_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MXLMB9_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MXLMB9_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MZJD4Q_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MZJD4Q_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#N2XG9M_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#N2XG9M_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#N5MOJ9_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#N5MOJ9_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#N7D6CM_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#N7D6CM_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#N84WLO_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#N84WLO_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#N8NRYC_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#N8NRYC_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NB74LH_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NB74LH_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NEH625_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NEH625_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NERQBV_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NERQBV_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NF5V4K_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NF5V4K_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NGTKPB_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NGTKPB_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NQYTW6_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NQYTW6_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#O03LVZ_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#O03LVZ_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#O1DLP3_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#O1DLP3_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#O968YK_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#O968YK_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#O9PFNI_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#O9PFNI_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#OARVY7_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#OARVY7_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#OBH3BB_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#OBH3BB_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#OKIYL2_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#OKIYL2_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ONLV6W_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ONLV6W_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ONLV6W_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#P81F6G_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#P81F6G_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PA3709_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PA3709_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PA3709_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PAL6KH_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PAL6KH_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PCDLSD_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PCDLSD_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PCL7J8_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PCL7J8_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PCL7J8_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PFP0QT_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PFP0QT_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PHE6HT_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PHE6HT_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PHE6HT_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PI046O_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PI046O_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PPIVKC_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PPIVKC_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PUBNZL_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PUBNZL_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Q472ET_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Q472ET_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Q472ET_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Q8CDIR_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Q8CDIR_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Q8CDIR_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QA0VXX_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QA0VXX_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QDSZAZ_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QDSZAZ_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QECYTU_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QECYTU_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QEU5OO_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QEU5OO_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QFS7QO_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QFS7QO_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QNERDH_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QNERDH_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QO188L_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QO188L_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QP92UZ_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QP92UZ_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QWVCUN_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QWVCUN_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#R6UZ41_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#R6UZ41_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#R6UZ41_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#RB4P76_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#RB4P76_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#RC1TPD_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#RC1TPD_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#RC5RQ2_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#RC5RQ2_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#RC5RQ2_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#RE7O0H_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#RE7O0H_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#RI6OQ9_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#RI6OQ9_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Resource>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Resource_collection>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#S10XO8_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#S10XO8_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#S3O4XZ_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#S3O4XZ_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#S5Z65G_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#S5Z65G_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#S5Z65G_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#S9EQY3_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#S9EQY3_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SB8D7Q_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SB8D7Q_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SB8D7Q_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SE76DJ_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SE76DJ_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SENDYJ_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SENDYJ_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SJTDH7_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SJTDH7_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SJTDH7_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SLW2WW_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SLW2WW_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SLW2WW_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SNYQCB_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SNYQCB_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SRMUIR_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SRMUIR_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SRMUIR_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SVIYS2_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SVIYS2_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SVIYS2_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SYD8UI_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SYD8UI_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SYKA1M_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SYKA1M_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SYKA1M_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TDO7V0_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TDO7V0_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TDO7V0_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TGKUGW_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TGKUGW_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TJZBER_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TJZBER_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TSCZL6_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TSCZL6_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TSCZL6_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TSE4SG_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TSE4SG_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TT5D9V_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TT5D9V_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TVQEUV_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TVQEUV_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TVZUXD_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TVZUXD_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TZSXCJ_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TZSXCJ_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UAD9QJ_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UAD9QJ_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UBD8SN_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UBD8SN_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UHWPVU_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UHWPVU_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UILPLU_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UILPLU_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ULBJDK_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ULBJDK_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UNU1B6_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UNU1B6_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#URI36W_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#URI36W_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UTW8G7_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UTW8G7_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V0U46A_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V0U46A_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V0U46A_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V1NS2H_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V1NS2H_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V44ZEZ_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V44ZEZ_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V44ZEZ_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V4YD0J_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V4YD0J_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V9NTAE_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V9NTAE_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V9NTAE_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VEWMPQ_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VEWMPQ_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VIAXCT_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VIAXCT_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VIAXCT_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VIAXCT_suniv3_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VM7Z6E_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VM7Z6E_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VNF97H_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VNF97H_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VNF97H_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VP1M97_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VP1M97_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VXNCN6_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VXNCN6_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#W2B8VJ_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#W2B8VJ_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#W30BHA_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#W30BHA_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#W3PG9C_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#W3PG9C_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#W44KI6_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#W44KI6_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#WC3QKD_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#WC3QKD_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#WIZJJJ_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#WIZJJJ_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#WPCMWV_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#WPCMWV_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#WZX1A6_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#WZX1A6_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#XC4TGP_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#XC4TGP_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#XCE8I2_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#XCE8I2_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#XMJIF0_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#XMJIF0_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#XMJIF0_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#XQBXUF_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#XQBXUF_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Y08BPD_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Y08BPD_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Y08BPD_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Y08BPD_suniv3_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Y0KTH8_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Y0KTH8_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Y2E9KZ_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Y2E9KZ_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Y9BAQ7_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Y9BAQ7_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#YMBJZO_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#YMBJZO_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#YMK0NX_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#YMK0NX_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#YRSWZT_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#YRSWZT_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Z6QNCZ_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Z6QNCZ_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Z88UQG_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Z88UQG_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ZA8Z94_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ZA8Z94_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ZHLDG6_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ZHLDG6_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ZNXI2Y_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ZNXI2Y_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ZNXI2Y_suniv2_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ZWPMUH_suniv0_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ZWPMUH_suniv1_>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n274c2b431cce459693ba647650a73bf2b1>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n274c2b431cce459693ba647650a73bf2b2>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n274c2b431cce459693ba647650a73bf2b3>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n274c2b431cce459693ba647650a73bf2b4>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n274c2b431cce459693ba647650a73bf2b5>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#nonns_Person.html> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#A97Q6Z_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//A97Q6Z_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#A97Q6Z_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//A97Q6Z_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#AD44PD_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//AD44PD_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#AD44PD_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//AD44PD_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ADER6R_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ADER6R_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ADER6R_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ADER6R_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#AFK28O_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//AFK28O_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#AFK28O_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//AFK28O_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#APADYR_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//APADYR_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#APADYR_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//APADYR_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ATIXOG_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ATIXOG_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ATIXOG_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ATIXOG_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ATIXOG_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ATIXOG_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#AUEFLK_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//AUEFLK_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#AUEFLK_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//AUEFLK_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#AXAL69_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//AXAL69_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#AXAL69_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//AXAL69_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#AZIKVC_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//AZIKVC_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#AZIKVC_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//AZIKVC_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#B3351Y_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//B3351Y_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#B3351Y_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//B3351Y_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#B7OLG6_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//B7OLG6_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#B7OLG6_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//B7OLG6_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BB2DUO_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//BB2DUO_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BB2DUO_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//BB2DUO_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BBQB01_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//BBQB01_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BBQB01_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//BBQB01_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BFFSF7_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//BFFSF7_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BFFSF7_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//BFFSF7_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BFJE57_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//BFJE57_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BFJE57_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//BFJE57_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BGJYK5_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//BGJYK5_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BGJYK5_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//BGJYK5_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BNHR9R_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//BNHR9R_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BNHR9R_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//BNHR9R_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BT1CIR_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//BT1CIR_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BT1CIR_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//BT1CIR_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BT1CIR_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//BT1CIR_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BTOFRG_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//BTOFRG_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BTOFRG_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//BTOFRG_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BXCKBE_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//BXCKBE_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BXCKBE_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//BXCKBE_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BXCKBE_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//BXCKBE_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#BXCKBE_suniv3_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//BXCKBE_suniv3_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#CGHQCS_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//CGHQCS_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#CGHQCS_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//CGHQCS_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#CPPBM5_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//CPPBM5_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#CPPBM5_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//CPPBM5_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Catalog> ns1:forClass <#> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Catalog> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Collection> ns1:forClass <#> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Collection> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#D0SI4T_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//D0SI4T_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#D0SI4T_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//D0SI4T_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#D2PC9B_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//D2PC9B_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#D2PC9B_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//D2PC9B_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#D6NTL3_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//D6NTL3_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#D6NTL3_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//D6NTL3_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#D6NTL3_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//D6NTL3_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#D6TJWB_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//D6TJWB_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#D6TJWB_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//D6TJWB_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#DAOQKE_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//DAOQKE_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#DAOQKE_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//DAOQKE_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#DLCN7T_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//DLCN7T_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#DLCN7T_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//DLCN7T_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#DLCN7T_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//DLCN7T_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#DLMWN1_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//DLMWN1_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#DLMWN1_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//DLMWN1_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#DOF1Y0_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//DOF1Y0_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#DOF1Y0_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//DOF1Y0_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#DZRME1_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//DZRME1_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#DZRME1_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//DZRME1_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#E0IE75_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//E0IE75_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#E0IE75_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//E0IE75_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#E5W9BC_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//E5W9BC_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#E5W9BC_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//E5W9BC_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#EA7BQO_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//EA7BQO_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#EA7BQO_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//EA7BQO_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#EG6L98_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//EG6L98_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#EG6L98_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//EG6L98_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#EL52VD_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//EL52VD_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#EL52VD_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//EL52VD_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#EL52VD_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//EL52VD_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#EL52VD_suniv3_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//EL52VD_suniv3_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#EVHJ63_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//EVHJ63_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#EVHJ63_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//EVHJ63_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F-E5JM9H> ns1:forClass <#> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//F-E5JM9H> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F-E5JM9H_collection> ns1:forClass skos:Collection ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//F-E5JM9H_collection> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F-MGQGXG> ns1:forClass <#> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//F-MGQGXG> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F-MGQGXG_collection> ns1:forClass skos:Collection ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//F-MGQGXG_collection> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F-R7HUAW> ns1:forClass <#> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//F-R7HUAW> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F-R7HUAW_collection> ns1:forClass skos:Collection ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//F-R7HUAW_collection> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F-YBBA5L> ns1:forClass <#> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//F-YBBA5L> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F-YBBA5L_collection> ns1:forClass skos:Collection ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//F-YBBA5L_collection> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F593UE_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//F593UE_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F593UE_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//F593UE_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F6XOKY_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//F6XOKY_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F6XOKY_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//F6XOKY_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#F6XOKY_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//F6XOKY_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#FBGGIF_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//FBGGIF_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#FBGGIF_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//FBGGIF_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#FBOY2E_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//FBOY2E_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#FBOY2E_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//FBOY2E_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#FC693T_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//FC693T_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#FC693T_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//FC693T_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#FSUN7X_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//FSUN7X_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#FSUN7X_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//FSUN7X_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#FXUH5B_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//FXUH5B_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#FXUH5B_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//FXUH5B_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#FXUH5B_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//FXUH5B_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#G0YTCB_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//G0YTCB_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#G0YTCB_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//G0YTCB_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#G5R4TQ_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//G5R4TQ_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#G5R4TQ_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//G5R4TQ_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#GBU3JV_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//GBU3JV_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#GBU3JV_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//GBU3JV_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#GUD81T_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//GUD81T_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#GUD81T_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//GUD81T_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#GUD81T_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//GUD81T_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#GVN0JQ_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//GVN0JQ_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#GVN0JQ_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//GVN0JQ_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#H16E7O_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//H16E7O_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#H16E7O_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//H16E7O_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#H1OJVU_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//H1OJVU_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#H1OJVU_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//H1OJVU_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#H2822O_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//H2822O_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#H2822O_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//H2822O_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HJ602T_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//HJ602T_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HJ602T_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//HJ602T_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HJ602T_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//HJ602T_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HNPN69_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//HNPN69_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HNPN69_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//HNPN69_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HQPUHX_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//HQPUHX_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HQPUHX_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//HQPUHX_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HSZK1U_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//HSZK1U_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HSZK1U_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//HSZK1U_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HU19AA_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//HU19AA_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HU19AA_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//HU19AA_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HZUO1H_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//HZUO1H_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#HZUO1H_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//HZUO1H_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#I86PSN_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//I86PSN_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#I86PSN_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//I86PSN_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IBUA1A_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//IBUA1A_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IBUA1A_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//IBUA1A_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IBWGR6_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//IBWGR6_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IBWGR6_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//IBWGR6_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IDP2JN_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//IDP2JN_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IDP2JN_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//IDP2JN_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#II9Z6B_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//II9Z6B_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#II9Z6B_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//II9Z6B_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IIA9LB_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//IIA9LB_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IIA9LB_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//IIA9LB_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ILBUPS_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ILBUPS_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ILBUPS_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ILBUPS_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ILU941_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ILU941_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ILU941_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ILU941_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ILU941_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ILU941_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IVXK0K_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//IVXK0K_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IVXK0K_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//IVXK0K_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IYR4HC_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//IYR4HC_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IYR4HC_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//IYR4HC_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IZMSKQ_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//IZMSKQ_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IZMSKQ_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//IZMSKQ_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IZOTK5_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//IZOTK5_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#IZOTK5_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//IZOTK5_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#J603A1_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//J603A1_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#J603A1_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//J603A1_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#J6C5UK_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//J6C5UK_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#J6C5UK_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//J6C5UK_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#J9KMGB_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//J9KMGB_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#J9KMGB_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//J9KMGB_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#JDSXZC_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//JDSXZC_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#JDSXZC_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//JDSXZC_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#JF2OAR_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//JF2OAR_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#JF2OAR_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//JF2OAR_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#JREAD3_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//JREAD3_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#JREAD3_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//JREAD3_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#JREAD3_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//JREAD3_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#JS950W_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//JS950W_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#JS950W_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//JS950W_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#JS950W_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//JS950W_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#K077DZ_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//K077DZ_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#K077DZ_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//K077DZ_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#K5ES6E_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//K5ES6E_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#K5ES6E_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//K5ES6E_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#K5GAOS_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//K5GAOS_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#K5GAOS_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//K5GAOS_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#K5GAOS_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//K5GAOS_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#K7SN51_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//K7SN51_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#K7SN51_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//K7SN51_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KFH87J_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KFH87J_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KFH87J_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KFH87J_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KFHAK9_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KFHAK9_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KFHAK9_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KFHAK9_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KFHAK9_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KFHAK9_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KGIKGS_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KGIKGS_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KGIKGS_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KGIKGS_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KGIKGS_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KGIKGS_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KHXINC_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KHXINC_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KHXINC_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KHXINC_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KK8KZ5_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KK8KZ5_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KK8KZ5_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KK8KZ5_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KK8KZ5_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KK8KZ5_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KMIIUX_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KMIIUX_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KMIIUX_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KMIIUX_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KMIIUX_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KMIIUX_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KRZZHH_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KRZZHH_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KRZZHH_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KRZZHH_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KRZZHH_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KRZZHH_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KRZZHH_suniv3_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KRZZHH_suniv3_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KU5E0O_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KU5E0O_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KU5E0O_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KU5E0O_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KU5E0O_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KU5E0O_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KU7V30_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KU7V30_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KU7V30_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KU7V30_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KUO3J7_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KUO3J7_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KUO3J7_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KUO3J7_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KUUBHA_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KUUBHA_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KUUBHA_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KUUBHA_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KUV8ZV_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KUV8ZV_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#KUV8ZV_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//KUV8ZV_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#L1YTDU_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//L1YTDU_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#L1YTDU_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//L1YTDU_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#L2C65C_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//L2C65C_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#L2C65C_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//L2C65C_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#L5A6H9_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//L5A6H9_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#L5A6H9_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//L5A6H9_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LCP1O1_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//LCP1O1_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LCP1O1_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//LCP1O1_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LEL4KZ_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//LEL4KZ_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LEL4KZ_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//LEL4KZ_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LL972U_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//LL972U_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LL972U_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//LL972U_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LNYOFV_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//LNYOFV_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LNYOFV_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//LNYOFV_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LONMJG_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//LONMJG_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LONMJG_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//LONMJG_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LWBAS6_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//LWBAS6_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#LWBAS6_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//LWBAS6_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#M5QXWC_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//M5QXWC_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#M5QXWC_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//M5QXWC_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#M5QXWC_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//M5QXWC_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#M5VK4G_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//M5VK4G_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#M5VK4G_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//M5VK4G_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#M6K4JV_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//M6K4JV_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#M6K4JV_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//M6K4JV_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MGQD3K_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//MGQD3K_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MGQD3K_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//MGQD3K_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MII4VK_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//MII4VK_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MII4VK_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//MII4VK_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MIISVM_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//MIISVM_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MIISVM_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//MIISVM_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MXH83G_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//MXH83G_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MXH83G_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//MXH83G_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MXLMB9_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//MXLMB9_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MXLMB9_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//MXLMB9_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MZJD4Q_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//MZJD4Q_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#MZJD4Q_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//MZJD4Q_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#N2XG9M_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//N2XG9M_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#N2XG9M_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//N2XG9M_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#N5MOJ9_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//N5MOJ9_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#N5MOJ9_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//N5MOJ9_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#N7D6CM_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//N7D6CM_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#N7D6CM_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//N7D6CM_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#N84WLO_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//N84WLO_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#N84WLO_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//N84WLO_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#N8NRYC_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//N8NRYC_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#N8NRYC_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//N8NRYC_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NB74LH_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//NB74LH_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NB74LH_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//NB74LH_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NEH625_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//NEH625_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NEH625_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//NEH625_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NERQBV_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//NERQBV_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NERQBV_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//NERQBV_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NF5V4K_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//NF5V4K_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NF5V4K_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//NF5V4K_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NGTKPB_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//NGTKPB_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NGTKPB_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//NGTKPB_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NQYTW6_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//NQYTW6_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#NQYTW6_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//NQYTW6_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#O03LVZ_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//O03LVZ_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#O03LVZ_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//O03LVZ_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#O1DLP3_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//O1DLP3_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#O1DLP3_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//O1DLP3_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#O968YK_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//O968YK_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#O968YK_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//O968YK_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#O9PFNI_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//O9PFNI_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#O9PFNI_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//O9PFNI_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#OARVY7_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//OARVY7_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#OARVY7_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//OARVY7_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#OBH3BB_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//OBH3BB_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#OBH3BB_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//OBH3BB_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#OKIYL2_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//OKIYL2_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#OKIYL2_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//OKIYL2_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ONLV6W_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ONLV6W_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ONLV6W_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ONLV6W_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ONLV6W_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ONLV6W_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#P81F6G_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//P81F6G_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#P81F6G_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//P81F6G_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PA3709_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//PA3709_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PA3709_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//PA3709_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PA3709_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//PA3709_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PAL6KH_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//PAL6KH_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PAL6KH_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//PAL6KH_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PCDLSD_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//PCDLSD_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PCDLSD_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//PCDLSD_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PCL7J8_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//PCL7J8_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PCL7J8_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//PCL7J8_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PCL7J8_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//PCL7J8_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PFP0QT_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//PFP0QT_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PFP0QT_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//PFP0QT_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PHE6HT_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//PHE6HT_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PHE6HT_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//PHE6HT_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PHE6HT_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//PHE6HT_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PI046O_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//PI046O_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PI046O_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//PI046O_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PPIVKC_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//PPIVKC_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PPIVKC_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//PPIVKC_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PUBNZL_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//PUBNZL_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#PUBNZL_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//PUBNZL_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Q472ET_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Q472ET_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Q472ET_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Q472ET_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Q472ET_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Q472ET_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Q8CDIR_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Q8CDIR_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Q8CDIR_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Q8CDIR_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Q8CDIR_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Q8CDIR_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QA0VXX_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//QA0VXX_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QA0VXX_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//QA0VXX_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QDSZAZ_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//QDSZAZ_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QDSZAZ_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//QDSZAZ_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QECYTU_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//QECYTU_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QECYTU_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//QECYTU_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QEU5OO_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//QEU5OO_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QEU5OO_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//QEU5OO_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QFS7QO_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//QFS7QO_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QFS7QO_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//QFS7QO_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QNERDH_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//QNERDH_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QNERDH_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//QNERDH_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QO188L_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//QO188L_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QO188L_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//QO188L_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QP92UZ_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//QP92UZ_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QP92UZ_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//QP92UZ_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QWVCUN_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//QWVCUN_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#QWVCUN_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//QWVCUN_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#R6UZ41_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//R6UZ41_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#R6UZ41_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//R6UZ41_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#R6UZ41_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//R6UZ41_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#RB4P76_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//RB4P76_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#RB4P76_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//RB4P76_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#RC1TPD_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//RC1TPD_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#RC1TPD_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//RC1TPD_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#RC5RQ2_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//RC5RQ2_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#RC5RQ2_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//RC5RQ2_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#RC5RQ2_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//RC5RQ2_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#RE7O0H_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//RE7O0H_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#RE7O0H_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//RE7O0H_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#RI6OQ9_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//RI6OQ9_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#RI6OQ9_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//RI6OQ9_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Resource> ns1:forClass <#> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Resource> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Resource_collection> ns1:forClass skos:Collection ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Resource_collection> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#S10XO8_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//S10XO8_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#S10XO8_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//S10XO8_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#S3O4XZ_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//S3O4XZ_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#S3O4XZ_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//S3O4XZ_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#S5Z65G_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//S5Z65G_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#S5Z65G_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//S5Z65G_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#S5Z65G_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//S5Z65G_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#S9EQY3_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//S9EQY3_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#S9EQY3_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//S9EQY3_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SB8D7Q_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SB8D7Q_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SB8D7Q_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SB8D7Q_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SB8D7Q_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SB8D7Q_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SE76DJ_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SE76DJ_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SE76DJ_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SE76DJ_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SENDYJ_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SENDYJ_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SENDYJ_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SENDYJ_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SJTDH7_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SJTDH7_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SJTDH7_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SJTDH7_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SJTDH7_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SJTDH7_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SLW2WW_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SLW2WW_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SLW2WW_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SLW2WW_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SLW2WW_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SLW2WW_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SNYQCB_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SNYQCB_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SNYQCB_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SNYQCB_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SRMUIR_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SRMUIR_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SRMUIR_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SRMUIR_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SRMUIR_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SRMUIR_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SVIYS2_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SVIYS2_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SVIYS2_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SVIYS2_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SVIYS2_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SVIYS2_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SYD8UI_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SYD8UI_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SYD8UI_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SYD8UI_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SYKA1M_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SYKA1M_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SYKA1M_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SYKA1M_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#SYKA1M_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//SYKA1M_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TDO7V0_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//TDO7V0_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TDO7V0_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//TDO7V0_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TDO7V0_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//TDO7V0_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TGKUGW_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//TGKUGW_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TGKUGW_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//TGKUGW_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TJZBER_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//TJZBER_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TJZBER_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//TJZBER_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TSCZL6_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//TSCZL6_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TSCZL6_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//TSCZL6_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TSCZL6_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//TSCZL6_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TSE4SG_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//TSE4SG_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TSE4SG_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//TSE4SG_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TT5D9V_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//TT5D9V_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TT5D9V_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//TT5D9V_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TVQEUV_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//TVQEUV_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TVQEUV_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//TVQEUV_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TVZUXD_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//TVZUXD_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TVZUXD_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//TVZUXD_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TZSXCJ_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//TZSXCJ_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#TZSXCJ_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//TZSXCJ_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UAD9QJ_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//UAD9QJ_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UAD9QJ_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//UAD9QJ_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UBD8SN_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//UBD8SN_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UBD8SN_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//UBD8SN_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UHWPVU_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//UHWPVU_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UHWPVU_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//UHWPVU_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UILPLU_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//UILPLU_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UILPLU_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//UILPLU_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ULBJDK_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ULBJDK_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ULBJDK_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ULBJDK_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UNU1B6_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//UNU1B6_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UNU1B6_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//UNU1B6_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#URI36W_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//URI36W_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#URI36W_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//URI36W_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UTW8G7_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//UTW8G7_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#UTW8G7_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//UTW8G7_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V0U46A_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//V0U46A_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V0U46A_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//V0U46A_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V0U46A_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//V0U46A_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V1NS2H_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//V1NS2H_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V1NS2H_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//V1NS2H_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V44ZEZ_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//V44ZEZ_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V44ZEZ_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//V44ZEZ_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V44ZEZ_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//V44ZEZ_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V4YD0J_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//V4YD0J_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V4YD0J_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//V4YD0J_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V9NTAE_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//V9NTAE_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V9NTAE_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//V9NTAE_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#V9NTAE_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//V9NTAE_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VEWMPQ_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//VEWMPQ_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VEWMPQ_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//VEWMPQ_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VIAXCT_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//VIAXCT_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VIAXCT_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//VIAXCT_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VIAXCT_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//VIAXCT_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VIAXCT_suniv3_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//VIAXCT_suniv3_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VM7Z6E_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//VM7Z6E_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VM7Z6E_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//VM7Z6E_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VNF97H_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//VNF97H_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VNF97H_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//VNF97H_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VNF97H_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//VNF97H_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VP1M97_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//VP1M97_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VP1M97_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//VP1M97_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VXNCN6_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//VXNCN6_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#VXNCN6_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//VXNCN6_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#W2B8VJ_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//W2B8VJ_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#W2B8VJ_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//W2B8VJ_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#W30BHA_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//W30BHA_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#W30BHA_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//W30BHA_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#W3PG9C_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//W3PG9C_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#W3PG9C_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//W3PG9C_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#W44KI6_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//W44KI6_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#W44KI6_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//W44KI6_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#WC3QKD_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//WC3QKD_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#WC3QKD_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//WC3QKD_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#WIZJJJ_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//WIZJJJ_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#WIZJJJ_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//WIZJJJ_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#WPCMWV_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//WPCMWV_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#WPCMWV_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//WPCMWV_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#WZX1A6_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//WZX1A6_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#WZX1A6_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//WZX1A6_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#XC4TGP_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//XC4TGP_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#XC4TGP_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//XC4TGP_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#XCE8I2_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//XCE8I2_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#XCE8I2_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//XCE8I2_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#XMJIF0_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//XMJIF0_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#XMJIF0_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//XMJIF0_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#XMJIF0_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//XMJIF0_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#XQBXUF_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//XQBXUF_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#XQBXUF_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//XQBXUF_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Y08BPD_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Y08BPD_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Y08BPD_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Y08BPD_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Y08BPD_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Y08BPD_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Y08BPD_suniv3_> ns1:forClass <https://w3id.org/objectcoreont/F-YBBA5L> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Y08BPD_suniv3_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Y0KTH8_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Y0KTH8_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Y0KTH8_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Y0KTH8_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Y2E9KZ_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Y2E9KZ_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Y2E9KZ_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Y2E9KZ_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Y9BAQ7_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Y9BAQ7_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Y9BAQ7_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Y9BAQ7_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#YMBJZO_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//YMBJZO_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#YMBJZO_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//YMBJZO_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#YMK0NX_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//YMK0NX_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#YMK0NX_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//YMK0NX_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#YRSWZT_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//YRSWZT_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#YRSWZT_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//YRSWZT_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Z6QNCZ_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Z6QNCZ_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Z6QNCZ_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Z6QNCZ_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Z88UQG_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Z88UQG_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#Z88UQG_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//Z88UQG_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ZA8Z94_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ZA8Z94_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ZA8Z94_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ZA8Z94_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ZHLDG6_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ZHLDG6_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ZHLDG6_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-E5JM9H> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ZHLDG6_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ZNXI2Y_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ZNXI2Y_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ZNXI2Y_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ZNXI2Y_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ZNXI2Y_suniv2_> ns1:forClass <https://w3id.org/objectcoreont/F-R7HUAW> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ZNXI2Y_suniv2_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ZWPMUH_suniv0_> ns1:forClass dcat:Resource ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ZWPMUH_suniv0_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ZWPMUH_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ZWPMUH_suniv1_> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n274c2b431cce459693ba647650a73bf2b1> ns1:forClass dcat:Catalog ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//n274c2b431cce459693ba647650a73bf2b1> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n274c2b431cce459693ba647650a73bf2b2> ns1:forClass foaf:Person ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//n274c2b431cce459693ba647650a73bf2b2> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n274c2b431cce459693ba647650a73bf2b3> ns1:forClass foaf:Person ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//n274c2b431cce459693ba647650a73bf2b3> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n274c2b431cce459693ba647650a73bf2b4> ns1:forClass foaf:Person ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//n274c2b431cce459693ba647650a73bf2b4> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n274c2b431cce459693ba647650a73bf2b5> ns1:forClass foaf:Person ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//n274c2b431cce459693ba647650a73bf2b5> .
+
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#nonns_Person.html> ns1:forClass <#> ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//nonns_Person.html> .
+

@@ -1,0 +1,18 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<https://w3id.org/n4o-metadata/prov-matrix/DLCN7T> a dcat:Resource,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://w3id.org/objectcoreont/F-R7HUAW>,
+        <https://w3id.org/objectcoreont/F-YBBA5L>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    dcterms:subject <http://www.w3id.org/objectcore/terminology/A01ISV>,
+        <http://www.w3id.org/objectcore/terminology/A0VF7A>,
+        <http://www.w3id.org/objectcore/terminology/D1ZG69>,
+        <http://www.w3id.org/objectcore/terminology/IP5W9R>,
+        <http://www.w3id.org/objectcore/terminology/IVETAX>,
+        <http://www.w3id.org/objectcore/terminology/SZMZE4>,
+        <http://www.w3id.org/objectcore/terminology/Z5V1LB> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> .
+

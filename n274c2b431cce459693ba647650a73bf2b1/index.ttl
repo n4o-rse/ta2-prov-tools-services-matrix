@@ -1,0 +1,28 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+[] a dcat:Catalog,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    dcterms:contributor "Angela Berthold, Jörg Drauschke, Anja Gerber, Georg Gerleigner, Frank von Hagel, Meike Hopp, Olivia Kaiser, Christoph Klose, Sabine Lang, Katharina Martin, Magdalene Schlösser, Florian Thiery, Sarah Wagner, Bernhard Weisser, Petra Winter, Gabriele Zöllner" ;
+    dcterms:creator [ ],
+        [ ],
+        [ ],
+        [ ] ;
+    dcterms:description """Aufgabe der Temporary Working Group innerhalb von NFDI4Objects war es, Dienste und Werkzeuge für Forschungssammlungen und Provenienzforschung zu identifizieren und in Katalogform online zu publizieren. Die Samlung soll als Werkzeug vor allem den Einstieg in die Sammlungsarbeit sowie Provenienzforschung erleichtern sowie relevante digitale Anwedungen sammeln und zur Verfügung stellen.
+Diese Sammlung wurde sowohl in inhaltliche als auch in typologische Kategorien gegliedert. Diese Typen sind: Netzwerke und Services, Empfehlungen, Digitale Anwendungen sowie Recherche und Ressourcen. Die inhaltliche Einteilung erfolgte nach Kontexten, diese sind: Koloniale Konetxte, NS-Zeit, SBZ/DDR, Secret/Sacred Objects und Natukunde/Naturwissenschaft. Alle Kategorien sind über einen Filter suchbar. Die Beschreibung der einzelnen Ressourcen wurde größteneils von den entsprechenden, zitierten Quellen übernommen und teilweise modifiziert. Für die gesammelten und zitierten Inhalte übernehmen die Autor*innen dieser Sammlung keine Gewähr.""" ;
+    dcterms:issued "2025-06-20" ;
+    dcterms:license "https://creativecommons.org/licenses/by/4.0/" ;
+    dcterms:publisher "Angela Berthold, Frank von Hagel, Gabriele Zöllner, Florian Thiery" ;
+    dcterms:title "ta2-prov-tools-services-matrix" ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    dcat:contactPoint "Angela Berthold (a.berthold@smb.spk-berlin.de)" ;
+    dcat:keyword "NFDI",
+        "NFDI4Objects",
+        "Provenienzforschung",
+        "Services",
+        "Tools" ;
+    dcat:landingPage "https://github.com/n4o-rse/ta2-prov-tools-services-matrix/" ;
+    dcat:version "1.0" .
+
