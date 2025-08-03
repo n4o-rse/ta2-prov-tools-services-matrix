@@ -2654,7 +2654,7 @@ var tree={
         "data": {
           "to": {
             "http://purl.org/dc/terms/subject": {
-              "instancecount": 1
+              "instancecount": 4
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
@@ -2672,7 +2672,7 @@ var tree={
             }
           }
         },
-        "instancecount": 4
+        "instancecount": 7
       },
       {
         "id": "https://w3id.org/n4o-metadata/prov-matrix/APADYR_suniv1_",
@@ -2948,7 +2948,7 @@ var tree={
         "data": {
           "to": {
             "http://purl.org/dc/terms/subject": {
-              "instancecount": 3
+              "instancecount": 2
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
@@ -2966,7 +2966,7 @@ var tree={
             }
           }
         },
-        "instancecount": 6
+        "instancecount": 5
       },
       {
         "id": "https://w3id.org/n4o-metadata/prov-matrix/ATIXOG_suniv1_",
@@ -3263,7 +3263,7 @@ var tree={
         "data": {
           "to": {
             "http://purl.org/dc/terms/subject": {
-              "instancecount": 3
+              "instancecount": 2
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
@@ -3281,7 +3281,7 @@ var tree={
             }
           }
         },
-        "instancecount": 7
+        "instancecount": 6
       },
       {
         "id": "https://w3id.org/n4o-metadata/prov-matrix/ATIXOG_suniv2_",
@@ -3634,7 +3634,7 @@ var tree={
         "data": {
           "to": {
             "http://purl.org/dc/terms/subject": {
-              "instancecount": 4
+              "instancecount": 7
             },
             "http://rdfs.org/ns/void#inDataset": {
               "instancecount": 1,
@@ -3642,23 +3642,23 @@ var tree={
               "http://rdfs.org/ns/void#Dataset": 1
             },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 3
+              "instancecount": 2
             }
           },
           "from": {
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
-              "http://www.w3.org/2004/02/skos/core#Collection": 3
+              "http://www.w3.org/2004/02/skos/core#Collection": 2
             }
           }
         },
-        "instancecount": 8
+        "instancecount": 10
       },
       {
-        "id": "n274c2b431cce459693ba647650a73bf2b1",
+        "id": "n4edd6f07901641bfa76d8a7fbed86df3b1",
         "parent": "http://www.w3.org/ns/dcat#Catalog",
         "type": "instance",
-        "text": "ta2-prov-tools-services-matrix (n274c2b431cce459693ba647650a73bf2b1)",
+        "text": "ta2-prov-tools-services-matrix (n4edd6f07901641bfa76d8a7fbed86df3b1)",
         "data": {}
       },
       {
@@ -3715,31 +3715,31 @@ var tree={
         "instancecount": 21
       },
       {
-        "id": "n274c2b431cce459693ba647650a73bf2b2",
+        "id": "n4edd6f07901641bfa76d8a7fbed86df3b2",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": "n274c2b431cce459693ba647650a73bf2b2 (n274c2b431cce459693ba647650a73bf2b2)",
+        "text": "n4edd6f07901641bfa76d8a7fbed86df3b2 (n4edd6f07901641bfa76d8a7fbed86df3b2)",
         "data": {}
       },
       {
-        "id": "n274c2b431cce459693ba647650a73bf2b3",
+        "id": "n4edd6f07901641bfa76d8a7fbed86df3b3",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": "n274c2b431cce459693ba647650a73bf2b3 (n274c2b431cce459693ba647650a73bf2b3)",
+        "text": "n4edd6f07901641bfa76d8a7fbed86df3b3 (n4edd6f07901641bfa76d8a7fbed86df3b3)",
         "data": {}
       },
       {
-        "id": "n274c2b431cce459693ba647650a73bf2b4",
+        "id": "n4edd6f07901641bfa76d8a7fbed86df3b4",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": "n274c2b431cce459693ba647650a73bf2b4 (n274c2b431cce459693ba647650a73bf2b4)",
+        "text": "n4edd6f07901641bfa76d8a7fbed86df3b4 (n4edd6f07901641bfa76d8a7fbed86df3b4)",
         "data": {}
       },
       {
-        "id": "n274c2b431cce459693ba647650a73bf2b5",
+        "id": "n4edd6f07901641bfa76d8a7fbed86df3b5",
         "parent": "http://xmlns.com/foaf/0.1/Person",
         "type": "instance",
-        "text": "n274c2b431cce459693ba647650a73bf2b5 (n274c2b431cce459693ba647650a73bf2b5)",
+        "text": "n4edd6f07901641bfa76d8a7fbed86df3b5 (n4edd6f07901641bfa76d8a7fbed86df3b5)",
         "data": {}
       },
       {
@@ -3835,17 +3835,17 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 224,
-              "http://www.w3.org/ns/dcat#Resource": 224,
-              "https://w3id.org/objectcoreont/F-YBBA5L": 49,
-              "https://w3id.org/objectcoreont/F-MGQGXG": 147,
-              "https://w3id.org/objectcoreont/F-R7HUAW": 41,
-              "https://w3id.org/objectcoreont/F-E5JM9H": 38
+              "instancecount": 38,
+              "http://www.w3.org/ns/dcat#Resource": 38,
+              "https://w3id.org/objectcoreont/F-E5JM9H": 38,
+              "https://w3id.org/objectcoreont/F-YBBA5L": 4,
+              "https://w3id.org/objectcoreont/F-MGQGXG": 2,
+              "https://w3id.org/objectcoreont/F-R7HUAW": 1
             }
           },
           "from": {}
         },
-        "instancecount": 228
+        "instancecount": 42
       }
     ]
   },

@@ -1,0 +1,13 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+[] a <http://www.w3.org/ns/ldp#Resource>,
+        foaf:Person,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    void:inDataset <https://w3id.org/n4o-metadata/prov-matrix/N4O_TA2_PROV_Matrix_Tools_&_Services> ;
+    foaf:affiliation "Prussian Cultural Heritage Foundation" ;
+    foaf:familyName "Berthold" ;
+    foaf:givenName "Angela" ;
+    foaf:mbox "mailto:a.berthold@smb.spk-berlin.de" ;
+    foaf:orcid "https://orcid.org/0009-0007-8926-5388" .
+

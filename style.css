@@ -36,7 +36,7 @@ body {
 }
 .header_pt1 {
   float: left;
-  color: white;
+  color: #13294b;
   background-color: transparent;
   height: 50px;
   display: flex;
@@ -46,7 +46,7 @@ body {
 }
 .header_pt2 {
   float: right;
-  color: white;
+  color: #0084ff;
   background-color: transparent;
   height: 50px;
   display: flex;

@@ -520,11 +520,11 @@
         <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ZNXI2Y_suniv2_>,
         <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ZWPMUH_suniv0_>,
         <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ZWPMUH_suniv1_>,
-        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n274c2b431cce459693ba647650a73bf2b1>,
-        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n274c2b431cce459693ba647650a73bf2b2>,
-        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n274c2b431cce459693ba647650a73bf2b3>,
-        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n274c2b431cce459693ba647650a73bf2b4>,
-        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n274c2b431cce459693ba647650a73bf2b5>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n4edd6f07901641bfa76d8a7fbed86df3b1>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n4edd6f07901641bfa76d8a7fbed86df3b2>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n4edd6f07901641bfa76d8a7fbed86df3b3>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n4edd6f07901641bfa76d8a7fbed86df3b4>,
+        <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n4edd6f07901641bfa76d8a7fbed86df3b5>,
         <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#nonns_Person.html> .
 
 <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#A97Q6Z_suniv0_> ns1:forClass dcat:Resource ;
@@ -2060,20 +2060,20 @@
 <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#ZWPMUH_suniv1_> ns1:forClass <https://w3id.org/objectcoreont/F-MGQGXG> ;
     ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//ZWPMUH_suniv1_> .
 
-<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n274c2b431cce459693ba647650a73bf2b1> ns1:forClass dcat:Catalog ;
-    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//n274c2b431cce459693ba647650a73bf2b1> .
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n4edd6f07901641bfa76d8a7fbed86df3b1> ns1:forClass dcat:Catalog ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//n4edd6f07901641bfa76d8a7fbed86df3b1> .
 
-<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n274c2b431cce459693ba647650a73bf2b2> ns1:forClass foaf:Person ;
-    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//n274c2b431cce459693ba647650a73bf2b2> .
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n4edd6f07901641bfa76d8a7fbed86df3b2> ns1:forClass foaf:Person ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//n4edd6f07901641bfa76d8a7fbed86df3b2> .
 
-<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n274c2b431cce459693ba647650a73bf2b3> ns1:forClass foaf:Person ;
-    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//n274c2b431cce459693ba647650a73bf2b3> .
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n4edd6f07901641bfa76d8a7fbed86df3b3> ns1:forClass foaf:Person ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//n4edd6f07901641bfa76d8a7fbed86df3b3> .
 
-<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n274c2b431cce459693ba647650a73bf2b4> ns1:forClass foaf:Person ;
-    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//n274c2b431cce459693ba647650a73bf2b4> .
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n4edd6f07901641bfa76d8a7fbed86df3b4> ns1:forClass foaf:Person ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//n4edd6f07901641bfa76d8a7fbed86df3b4> .
 
-<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n274c2b431cce459693ba647650a73bf2b5> ns1:forClass foaf:Person ;
-    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//n274c2b431cce459693ba647650a73bf2b5> .
+<https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#n4edd6f07901641bfa76d8a7fbed86df3b5> ns1:forClass foaf:Person ;
+    ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//n4edd6f07901641bfa76d8a7fbed86df3b5> .
 
 <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//settings/publicTypeIndex.ttl#nonns_Person.html> ns1:forClass <#> ;
     ns1:instance <https://n4o-rse.github.io/ta2-prov-tools-services-matrix//nonns_Person.html> .
